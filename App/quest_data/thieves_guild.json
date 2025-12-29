@@ -1,0 +1,140 @@
+{
+  "id": "Thieves Guild",
+  "name": "Thieves Guild",
+  "icon": "https://images.uesp.net/5/56/OBR-icon-faction-Thieves_Guild-Pickpocket.png",
+  "displayOrder": 7,
+  "quests": [
+    {
+      "id": "TG00FindThievesGuild",
+      "name": "Finding the Thieves Guild",
+      "link": "https://en.uesp.net/wiki/Oblivion:Finding_the_Thieves_Guild",
+      "description": "So you want to join the Thieves Guild? Don't you know it doesn't even exist?",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "TG01BestThief",
+      "name": "May the Best Thief Win",
+      "link": "https://en.uesp.net/wiki/Oblivion:May_the_Best_Thief_Win",
+      "description": "You want to join, but are you a good enough thief?",
+      "completionStages": [
+        18,
+        50,
+        90
+      ]
+    },
+    {
+      "id": "TGStolenGoods",
+      "name": "Independent Thievery",
+      "link": "https://en.uesp.net/wiki/Oblivion:Independent_Thievery",
+      "description": "Steal as much as you can, and sell it to a Thieves Guild fence.",
+      "completionStages": [
+        120
+      ]
+    },
+    {
+      "id": "TG02taxes",
+      "name": "Untaxing the Poor",
+      "link": "https://en.uesp.net/wiki/Oblivion:Untaxing_the_Poor",
+      "description": "Steal the tax records for the Waterfront residents.",
+      "completionStages": [
+        25,
+        30
+      ]
+    },
+    {
+      "id": "TG03Elven",
+      "name": "The Elven Maiden",
+      "link": "https://en.uesp.net/wiki/Oblivion:The_Elven_Maiden",
+      "description": "Steal a statuette for a mystery buyer.",
+      "completionStages": [
+        35,
+        80
+      ]
+    },
+    {
+      "id": "TG04Mistake",
+      "name": "Ahdarji's Heirloom",
+      "link": "https://en.uesp.net/wiki/Oblivion:Ahdarji's_Heirloom",
+      "description": "Recover a ring stolen by a freelance thief.",
+      "completionStages": [
+        45,
+        80
+      ]
+    },
+    {
+      "id": "TG05Misdirection",
+      "name": "Misdirection",
+      "link": "https://en.uesp.net/wiki/Oblivion:Misdirection",
+      "description": "Help the Thieves Guild get the waterfront back to normal.",
+      "completionStages": [
+        55,
+        60
+      ]
+    },
+    {
+      "id": "TG06Atonement",
+      "name": "Lost Histories",
+      "link": "https://en.uesp.net/wiki/Oblivion:Lost_Histories",
+      "description": "Finish a job from which a guildmate has not returned.",
+      "completionStages": [
+        65,
+        70
+      ]
+    },
+    {
+      "id": "TG07Lex",
+      "name": "Taking Care of Lex",
+      "link": "https://en.uesp.net/wiki/Oblivion:Taking_Care_of_Lex",
+      "description": "Get Hieronymus Lex reassigned.",
+      "completionStages": [
+        75,
+        90
+      ]
+    },
+    {
+      "id": "TG08Blind",
+      "name": "Turning a Blind Eye",
+      "link": "https://en.uesp.net/wiki/Oblivion:Turning_a_Blind_Eye",
+      "description": "Steal a stone for the Gray Fox.",
+      "completionStages": [
+        50,
+        85,
+        100
+      ]
+    },
+    {
+      "id": "TG09Arrow",
+      "name": "Arrow of Extrication",
+      "link": "https://en.uesp.net/wiki/Oblivion:Arrow_of_Extrication",
+      "description": "Steal an arrow for the Gray Fox.",
+      "completionStages": [
+        40,
+        50,
+        95
+      ]
+    },
+    {
+      "id": "TG10Boots",
+      "name": "Boots of Springheel Jak",
+      "link": "https://en.uesp.net/wiki/Oblivion:Boots_of_Springheel_Jak",
+      "description": "Find out where Springheel Jak is buried and retrieve a pair of magical boots for the Gray Fox.",
+      "completionStages": [
+        50,
+        60,
+        105
+      ]
+    },
+    {
+      "id": "tg11heist",
+      "name": "The Ultimate Heist",
+      "link": "https://en.uesp.net/wiki/Oblivion:The_Ultimate_Heist",
+      "description": "Steal an Elder Scroll for the Gray Fox, and for glory!",
+      "completionStages": [
+        160,
+        200
+      ]
+    }
+  ]
+}

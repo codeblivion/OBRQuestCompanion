@@ -1,0 +1,174 @@
+{
+  "id": "Shivering Isles: Main",
+  "name": "Shivering Isles: Main",
+  "icon": "https://images.uesp.net/b/b0/OBR-icon-faction-Court_of_Madness.png",
+  "displayOrder": 3,
+  "quests": [
+    {
+      "id": "se01door",
+      "name": "A Door in Niben Bay",
+      "link": "https://en.uesp.net/wiki/Shivering:A_Door_in_Niben_Bay",
+      "description": "Cross the threshold of Madness.",
+      "completionStages": [
+        201
+      ]
+    },
+    {
+      "id": "SE02",
+      "name": "Through the Fringe of Madness",
+      "link": "https://en.uesp.net/wiki/Shivering:Through_the_Fringe_of_Madness",
+      "description": "Get past the Gates of Madness.",
+      "completionStages": [
+        200
+      ]
+    },
+    {
+      "id": "SE03",
+      "name": "A Better Mousetrap",
+      "link": "https://en.uesp.net/wiki/Shivering:A_Better_Mousetrap",
+      "description": "Activate the Resonator of Judgment.",
+      "completionStages": [
+        200
+      ]
+    },
+    {
+      "id": "SE03A",
+      "name": "Baiting the Trap",
+      "link": "https://en.uesp.net/wiki/Shivering:Baiting_the_Trap",
+      "description": "Decide the fate of some greedy new adventurers in the Isles.",
+      "completionStages": [
+        200
+      ]
+    },
+    {
+      "id": "SE04Shell",
+      "name": "Understanding Madness",
+      "link": "https://en.uesp.net/wiki/Shivering:Understanding_Madness",
+      "description": "Meet the Duke of Mania and the Duchess of Dementia and join their courts.",
+      "completionStages": [
+        210
+      ]
+    },
+    {
+      "id": "SE04",
+      "name": "Addiction",
+      "link": "https://en.uesp.net/wiki/Shivering:Addiction",
+      "description": "Return the Chalice of Reversal to Thadon, the Duke of Mania.",
+      "completionStages": [
+        100,
+        200
+      ]
+    },
+    {
+      "id": "SE05",
+      "name": "The Lady of Paranoia",
+      "link": "https://en.uesp.net/wiki/Shivering:The_Lady_of_Paranoia",
+      "description": "Investigate who wants Lady Syl, the Duchess of Dementia, assassinated.",
+      "completionStages": [
+        200
+      ]
+    },
+    {
+      "id": "se06",
+      "name": "The Cold Flame of Agnon",
+      "link": "https://en.uesp.net/wiki/Shivering:The_Cold_Flame_of_Agnon",
+      "description": "Choose sides in the battle at Cylarne to relight the hope of New Sheoth.",
+      "completionStages": [
+        200
+      ]
+    },
+    {
+      "id": "SE07",
+      "name": "Ritual of Accession",
+      "link": "https://en.uesp.net/wiki/Shivering:Ritual_of_Accession",
+      "description": "Become a Duke/Duchess in the Court of Madness.",
+      "completionStages": [
+        200
+      ]
+    },
+    {
+      "id": "SE07B",
+      "name": "Ritual of Mania",
+      "link": "https://en.uesp.net/wiki/Shivering:Ritual_of_Mania",
+      "description": "Kill the Duke of Mania and take his place.",
+      "completionStages": [
+        200
+      ]
+    },
+    {
+      "id": "SE07A",
+      "name": "Ritual of Dementia",
+      "link": "https://en.uesp.net/wiki/Shivering:Ritual_of_Dementia",
+      "description": "Kill the Duchess of Dementia and take her place.",
+      "completionStages": [
+        200
+      ]
+    },
+    {
+      "id": "SE08",
+      "name": "Retaking The Fringe",
+      "link": "https://en.uesp.net/wiki/Shivering:Retaking_The_Fringe",
+      "description": "Defend the Fringe and stop the attackers.",
+      "completionStages": [
+        200
+      ]
+    },
+    {
+      "id": "SE09",
+      "name": "Rebuilding the Gatekeeper",
+      "link": "https://en.uesp.net/wiki/Shivering:Rebuilding_the_Gatekeeper",
+      "description": "Find all of the parts of the Gatekeeper and rebuild it.",
+      "completionStages": [
+        200
+      ]
+    },
+    {
+      "id": "SE10",
+      "name": "The Helpless Army",
+      "link": "https://en.uesp.net/wiki/Shivering:The_Helpless_Army",
+      "description": "Save the Mazken/Aureal from the Knights of Order.",
+      "completionStages": [
+        100,
+        200
+      ]
+    },
+    {
+      "id": "SE11",
+      "name": "Symbols of Office",
+      "link": "https://en.uesp.net/wiki/Shivering:Symbols_of_Office",
+      "description": "Procure the two items needed to craft the Staff of Sheogorath.",
+      "completionStages": [
+        205
+      ]
+    },
+    {
+      "id": "SE12",
+      "name": "The Roots of Madness",
+      "link": "https://en.uesp.net/wiki/Shivering:The_Roots_of_Madness",
+      "description": "Cleanse the Pools of Madness.",
+      "completionStages": [
+        200
+      ]
+    },
+    {
+      "id": "SE13",
+      "name": "The End of Order",
+      "link": "https://en.uesp.net/wiki/Shivering:The_End_of_Order",
+      "description": "Fight the last battle against the forces of order and Jyggalag.",
+      "completionStages": [
+        100,
+        200,
+        255
+      ]
+    },
+    {
+      "id": "SE14",
+      "name": "The Prince of Madness",
+      "link": "https://en.uesp.net/wiki/Shivering:The_Prince_of_Madness",
+      "description": "End the Greymarch; get your rewards.",
+      "completionStages": [
+        6
+      ]
+    }
+  ]
+}

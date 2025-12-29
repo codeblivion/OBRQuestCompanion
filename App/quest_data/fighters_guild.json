@@ -1,0 +1,186 @@
+{
+  "id": "Fighters Guild",
+  "name": "Fighters Guild",
+  "icon": "https://images.uesp.net/4/4b/OBR-icon-faction-Fighters_Guild-Swordsman.png",
+  "displayOrder": 5,
+  "quests": [
+    {
+      "id": "FGC01Rats",
+      "name": "A Rat Problem",
+      "link": "https://en.uesp.net/wiki/Oblivion:A_Rat_Problem",
+      "description": "Azzan in Anvil wants you to see Arvena Thelas regarding a rat problem in her basement.",
+      "completionStages": [
+        100,
+        110,
+        200
+      ]
+    },
+    {
+      "id": "FGC02Protect",
+      "name": "The Unfortunate Shopkeeper",
+      "link": "https://en.uesp.net/wiki/Oblivion:The_Unfortunate_Shopkeeper",
+      "description": "Stop some thieves from robbing a local shopkeeper.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "FGC06Courier",
+      "name": "The Desolate Mine",
+      "link": "https://en.uesp.net/wiki/Oblivion:The_Desolate_Mine",
+      "description": "Deliver a weapons shipment to the Desolate Mine.",
+      "completionStages": [
+        100,
+        110
+      ]
+    },
+    {
+      "id": "FGD01Default",
+      "name": "Unfinished Business",
+      "link": "https://en.uesp.net/wiki/Oblivion:Unfinished_Business",
+      "description": "Travel to Skingrad to find out why Maglir has defaulted on a contract.",
+      "completionStages": [
+        100,
+        105
+      ]
+    },
+    {
+      "id": "FGD02DandD",
+      "name": "Drunk and Disorderly",
+      "link": "https://en.uesp.net/wiki/Oblivion:Drunk_and_Disorderly",
+      "description": "Find out why several of your guildmates are causing trouble in Leyawiin.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "FGC03Thieves",
+      "name": "Den of Thieves",
+      "link": "https://en.uesp.net/wiki/Oblivion:Den_of_Thieves",
+      "description": "A gang of Bosmer thieves has been causing some problems around Anvil.",
+      "completionStages": [
+        95,
+        100
+      ]
+    },
+    {
+      "id": "FGC07Heirloom",
+      "name": "Amelion's Debt",
+      "link": "https://en.uesp.net/wiki/Oblivion:Amelion's_Debt",
+      "description": "Help Biene Amelion satisfy a debt by retrieving an heirloom.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "FGD03Viranus",
+      "name": "The Master's Son",
+      "link": "https://en.uesp.net/wiki/Oblivion:The_Master's_Son",
+      "description": "The Fighters Guild has been hired to find Galtus Previa, and Viranus Donton needs a confidence boost.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "FGD04Defector",
+      "name": "More Unfinished Business",
+      "link": "https://en.uesp.net/wiki/Oblivion:More_Unfinished_Business",
+      "description": "Find out why a guild member has defaulted on yet another contract in Bravil.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "FGD05Oreyn",
+      "name": "Azani Blackheart",
+      "link": "https://en.uesp.net/wiki/Oblivion:Azani_Blackheart_(quest)",
+      "description": "Help Modryn prove that the Blackwood Company lied about completing a contract to kill Azani Blackheart.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "FGC08Prison",
+      "name": "The Fugitives",
+      "link": "https://en.uesp.net/wiki/Oblivion:The_Fugitives",
+      "description": "Find and kill some fugitives that have been causing trouble near Bravil.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "FGC04Scholar",
+      "name": "The Wandering Scholar",
+      "link": "https://en.uesp.net/wiki/Oblivion:The_Wandering_Scholar",
+      "description": "Elante of Alinor wishes to study a Daedric shrine and needs protection.",
+      "completionStages": [
+        100,
+        110
+      ]
+    },
+    {
+      "id": "FGD06DeadViranus",
+      "name": "Trolls of Forsaken Mine",
+      "link": "https://en.uesp.net/wiki/Oblivion:Trolls_of_Forsaken_Mine",
+      "description": "Viranus Donton and some Fighters Guild members were sent to eliminate trolls at Forsaken Mine, and now you must find them.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "FGC05Stone",
+      "name": "The Stone of St. Alessia",
+      "link": "https://en.uesp.net/wiki/Oblivion:The_Stone_of_St",
+      "description": "The Stone of St. Alessia has been stolen from the Chapel of Talos in Bruma.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "FGC09Ogres",
+      "name": "The Noble's Daughter",
+      "link": "https://en.uesp.net/wiki/Oblivion:The_Noble's_Daughter",
+      "description": "Find Lord Rugdumph gro-Shurgak's missing daughter.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "FGC10Swamp",
+      "name": "Mystery at Harlun's Watch",
+      "link": "https://en.uesp.net/wiki/Oblivion:Mystery_at_Harlun's_Watch",
+      "description": "Investigate the disappearance of some locals from Harlun's Watch.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "FGD07Kidnap",
+      "name": "Information Gathering",
+      "link": "https://en.uesp.net/wiki/Oblivion:Information_Gathering",
+      "description": "Bring Ajum-Kajin - a high-ranking Blackwood Company member - back to Modryn and \"persuade\" him to talk.",
+      "completionStages": [
+        100,
+        105
+      ]
+    },
+    {
+      "id": "FGD08Infiltration",
+      "name": "Infiltration",
+      "link": "https://en.uesp.net/wiki/Oblivion:Infiltration",
+      "description": "Deceive your way into the Blackwood Company and discover why they are so powerful... or so crazy.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "FGD09Hist",
+      "name": "The Hist",
+      "link": "https://en.uesp.net/wiki/Oblivion:The_Hist",
+      "description": "Return to Blackwood Company headquarters to destroy the source of their power and anyone that stands in your way.",
+      "completionStages": [
+        100
+      ]
+    }
+  ]
+}

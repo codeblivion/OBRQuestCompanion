@@ -1,0 +1,109 @@
+{
+  "id": "Knights of the Nine",
+  "name": "Knights of the Nine",
+  "icon": "https://images.uesp.net/thumb/7/72/OBR-icon-faction-KotN_Knight_Commander.png",
+  "displayOrder": 2,
+  "quests": [
+    {
+      "id": "NDPilgrim",
+      "name": "Pilgrimage",
+      "link": "https://en.uesp.net/wiki/Oblivion:Pilgrimage",
+      "description": "Complete the Pilgrimage of the Nine Divines to show that you are worthy.",
+      "completionStages": [
+        200
+      ]
+    },
+    {
+      "id": "ND01",
+      "name": "The Shrine of the Crusader",
+      "link": "https://en.uesp.net/wiki/Oblivion:The_Shrine_of_the_Crusader",
+      "description": "Retrieve the Helm of the Crusader from Pelinal's lost shrine.",
+      "completionStages": [
+        50
+      ]
+    },
+    {
+      "id": "ND02",
+      "name": "Priory of the Nine",
+      "link": "https://en.uesp.net/wiki/Oblivion:Priory_of_the_Nine_(quest)",
+      "description": "Retrieve the Cuirass of the Crusader from the Priory of the Nine.",
+      "completionStages": [
+        200
+      ]
+    },
+    {
+      "id": "ND06",
+      "name": "Stendarr's Mercy",
+      "link": "https://en.uesp.net/wiki/Oblivion:Stendarr's_Mercy",
+      "description": "Retrieve the Gauntlets of the Crusader from the Chapel of Stendarr in Chorrol.",
+      "completionStages": [
+        200
+      ]
+    },
+    {
+      "id": "ND04",
+      "name": "The Path of the Righteous",
+      "link": "https://en.uesp.net/wiki/Oblivion:The_Path_of_the_Righteous",
+      "description": "Retrieve the Mace of Zenithar from the Chapel of Zenithar in Leyawiin.",
+      "completionStages": [
+        100,
+        200
+      ]
+    },
+    {
+      "id": "ND05",
+      "name": "Wisdom of the Ages",
+      "link": "https://en.uesp.net/wiki/Oblivion:Wisdom_of_the_Ages",
+      "description": "Retrieve the Shield of the Crusader from Fort Bulwark.",
+      "completionStages": [
+        200
+      ]
+    },
+    {
+      "id": "ND03",
+      "name": "Nature's Fury",
+      "link": "https://en.uesp.net/wiki/Oblivion:Nature's_Fury",
+      "description": "Retrieve the Boots of the Crusader from the Shrine of Kynareth.",
+      "completionStages": [
+        100,
+        200
+      ]
+    },
+    {
+      "id": "ND07",
+      "name": "The Faithful Squire",
+      "link": "https://en.uesp.net/wiki/Oblivion:The_Faithful_Squire",
+      "description": "Retrieve the Greaves of the Crusader from Lathon.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "ND08",
+      "name": "The Sword of the Crusader",
+      "link": "https://en.uesp.net/wiki/Oblivion:The_Sword_of_the_Crusader",
+      "description": "Retrieve the Sword of the Crusader and reconsecrate it.",
+      "completionStages": [
+        200
+      ]
+    },
+    {
+      "id": "ND09",
+      "name": "The Blessing of Talos",
+      "link": "https://en.uesp.net/wiki/Oblivion:The_Blessing_of_Talos",
+      "description": "Obtain the ninth relic: The Blessing of Talos.",
+      "completionStages": [
+        200
+      ]
+    },
+    {
+      "id": "ND10",
+      "name": "Umaril the Unfeathered",
+      "link": "https://en.uesp.net/wiki/Oblivion:Umaril_the_Unfeathered_(quest)",
+      "description": "Defeat Umaril and kill him for good, in both the physical and spiritual planes.",
+      "completionStages": [
+        200
+      ]
+    }
+  ]
+}

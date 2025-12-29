@@ -1,0 +1,207 @@
+{
+  "id": "Dark Brotherhood",
+  "name": "Dark Brotherhood",
+  "icon": "https://images.uesp.net/8/8a/OBR-icon-faction-Dark_Brotherhood-Silencer.png",
+  "displayOrder": 8,
+  "quests": [
+    {
+      "id": "Dark01Knife",
+      "name": "A Knife in the Dark",
+      "link": "https://en.uesp.net/wiki/Oblivion:A_Knife_in_the_Dark",
+      "description": "You must prove your worthiness to join the Brotherhood.",
+      "completionStages": [
+        100,
+        115
+      ]
+    },
+    {
+      "id": "Dark02Watery",
+      "name": "A Watery Grave",
+      "link": "https://en.uesp.net/wiki/Oblivion:A_Watery_Grave",
+      "description": "You must kill the captain of the pirate vessel Marie Elena.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "Dark03Accidents",
+      "name": "Accidents Happen",
+      "link": "https://en.uesp.net/wiki/Oblivion:Accidents_Happen",
+      "description": "An honest Wood Elf in Bruma has upset some dishonest people.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "Dark04Execution",
+      "name": "Scheduled for Execution",
+      "link": "https://en.uesp.net/wiki/Oblivion:Scheduled_for_Execution",
+      "description": "An old \"friend\" in the Imperial Prison needs to be released... from living.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "MSShadowscale",
+      "name": "The Renegade Shadowscale",
+      "link": "https://en.uesp.net/wiki/Oblivion:The_Renegade_Shadowscale",
+      "description": "Eradicate a fugitive Shadowscale named Scar-Tail and bring back his heart as proof for Teinaava.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "Dark05Assassinated",
+      "name": "The Assassinated Man",
+      "link": "https://en.uesp.net/wiki/Oblivion:The_Assassinated_Man",
+      "description": "Help Francois Motierre fake his death to escape his cowardly mistakes.",
+      "completionStages": [
+        100,
+        110
+      ]
+    },
+    {
+      "id": "DarkVamp",
+      "name": "Darkness Eternal",
+      "link": "https://en.uesp.net/wiki/Oblivion:Darkness_Eternal",
+      "description": "Accept Vicente Valtieri's offer to become a vampire.",
+      "completionStages": [
+        115,
+        116
+      ]
+    },
+    {
+      "id": "Dark06Wanderer",
+      "name": "The Lonely Wanderer",
+      "link": "https://en.uesp.net/wiki/Oblivion:The_Lonely_Wanderer",
+      "description": "A High Elf in the Imperial City must be removed from existence.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "Dark07Medicine",
+      "name": "Bad Medicine",
+      "link": "https://en.uesp.net/wiki/Oblivion:Bad_Medicine",
+      "description": "Cure the sickly warlord Roderick at Fort Sutch: a spoonful of sugar, a pint of poison.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "Dark08Whodunit",
+      "name": "Whodunit?",
+      "link": "https://en.uesp.net/wiki/Oblivion:Whodunit_",
+      "description": "Summitmist Manor; there were six on the night of last and then there were none... save one.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "Dark09Retirement",
+      "name": "Permanent Retirement",
+      "link": "https://en.uesp.net/wiki/Oblivion:Permanent_Retirement",
+      "description": "Adamus Phillida spent years looking for the Brotherhood; assure him they've always been \"right behind him.\"",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "Dark10Sanctuary",
+      "name": "The Purification",
+      "link": "https://en.uesp.net/wiki/Oblivion:The_Purification",
+      "description": "Things at the Sanctuary have gone sour, and the Brotherhood can't afford chance or weakness.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "Dark10SpecialWizard",
+      "name": "Affairs of a Wizard",
+      "link": "https://en.uesp.net/wiki/Oblivion:Affairs_of_a_Wizard",
+      "description": "The first Dead Drop contract at Hero Hill, to stop a necromancer from achieving immortality.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "Dark11Kin",
+      "name": "Next of Kin",
+      "link": "https://en.uesp.net/wiki/Oblivion:Next_of_Kin",
+      "description": "Next to the Great Oak in Chorrol, your next assignment demands the lives of an entire bloodline.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "Dark12Harem",
+      "name": "Broken Vows",
+      "link": "https://en.uesp.net/wiki/Oblivion:Broken_Vows",
+      "description": "Deep within the well of Skingrad Castle Courtyard, the next drop matches killer against killer.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "Dark13Justice",
+      "name": "Final Justice",
+      "link": "https://en.uesp.net/wiki/Oblivion:Final_Justice",
+      "description": "Beneath an Old Bridge lies the next drop, requesting judgment on a known psychotic.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "Dark14Honor",
+      "name": "A Matter of Honor",
+      "link": "https://en.uesp.net/wiki/Oblivion:A_Matter_of_Honor",
+      "description": "Alval Uvani, a traveling Dunmer merchant skilled in Destruction, makes a perfect target for a forest ambush.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "Dark15Coldest",
+      "name": "The Coldest Sleep",
+      "link": "https://en.uesp.net/wiki/Oblivion:The_Coldest_Sleep",
+      "description": "Locate a Nord at Gnoll Mountain, said to be running from a fate he chose in Solstheim. Today it will find him.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "Dark16Kiss",
+      "name": "A Kiss Before Dying",
+      "link": "https://en.uesp.net/wiki/Oblivion:A_Kiss_Before_Dying",
+      "description": "In Bravil lies the home of the Lucky Old Lady and a \"lucky\" Bosmer, and today fortune shines on both... but only one shines back.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "Dark17Following",
+      "name": "Following a Lead",
+      "link": "https://en.uesp.net/wiki/Oblivion:Following_a_Lead",
+      "description": "What have you been doing, puppet?",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "Dark18Mother",
+      "name": "Honor Thy Mother",
+      "link": "https://en.uesp.net/wiki/Oblivion:Honor_Thy_Mother",
+      "description": "Root out the traitor and end his trail of carnage.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "Dark19Whispers",
+      "name": "Whispers of Death",
+      "link": "https://en.uesp.net/wiki/Oblivion:Whispers_of_Death",
+      "description": "Relay the prayers of the vengeful to ensure their vengeance is fulfilled.",
+      "completionStages": []
+    }
+  ]
+}

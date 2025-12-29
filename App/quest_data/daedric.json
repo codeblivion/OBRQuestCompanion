@@ -1,0 +1,153 @@
+{
+  "id": "Daedric",
+  "name": "Daedric Princes",
+  "icon": "https://images.uesp.net/8/8b/OB-icon-Conjuration_(title).gif",
+  "displayOrder": 9,
+  "quests": [
+    {
+      "id": "DAAzura",
+      "name": "Azura",
+      "link": "https://en.uesp.net/wiki/Oblivion:Azura",
+      "description": "Kill some former worshippers of Azura who have been turned into vampires.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "DABoethia",
+      "name": "Boethia",
+      "link": "https://en.uesp.net/wiki/Oblivion:Boethia",
+      "description": "Prove your worthiness to Boethia in the Tournament of Ten Bloods.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "DAClavicusVile",
+      "name": "Clavicus Vile",
+      "link": "https://en.uesp.net/wiki/Oblivion:Clavicus_Vile",
+      "description": "Retrieve the infamous sword Umbra from a regretful killer.",
+      "completionStages": [
+        100,
+        105
+      ]
+    },
+    {
+      "id": "DAHermaeusMora",
+      "name": "Hermaeus Mora",
+      "link": "https://en.uesp.net/wiki/Oblivion:Hermaeus_Mora",
+      "description": "Capture one soul from each of the ten races of Tamriel.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "DAHircine",
+      "name": "Hircine",
+      "link": "https://en.uesp.net/wiki/Oblivion:Hircine",
+      "description": "You must make an offering of a bear or wolf pelt... and the horn of a Unicorn.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "DAMalacath",
+      "name": "Malacath",
+      "link": "https://en.uesp.net/wiki/Oblivion:Malacath",
+      "description": "Rescue some Ogres from slavery.",
+      "completionStages": [
+        100,
+        200
+      ]
+    },
+    {
+      "id": "DAMephala",
+      "name": "Mephala",
+      "link": "https://en.uesp.net/wiki/Oblivion:Mephala",
+      "description": "Start a feud between two prominent families.",
+      "completionStages": [
+        100,
+        105,
+        110,
+        115
+      ]
+    },
+    {
+      "id": "DAMeridia",
+      "name": "Meridia",
+      "link": "https://en.uesp.net/wiki/Oblivion:Meridia",
+      "description": "Wipe out a band of necromancers.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "DAMolagBal",
+      "name": "Molag Bal",
+      "link": "https://en.uesp.net/wiki/Oblivion:Molag_Bal",
+      "description": "Goad the local do-gooder into killing you.",
+      "completionStages": [
+        100,
+        105,
+        110
+      ]
+    },
+    {
+      "id": "DANamira",
+      "name": "Namira",
+      "link": "https://en.uesp.net/wiki/Oblivion:Namira",
+      "description": "Assist Namira's Forgotten in eliminating some priests.",
+      "completionStages": [
+        100,
+        105,
+        110
+      ]
+    },
+    {
+      "id": "DANocturnal",
+      "name": "Nocturnal",
+      "link": "https://en.uesp.net/wiki/Oblivion:Nocturnal",
+      "description": "Recover the Eye of Nocturnal from a pair of thieves in Leyawiin.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "DAPeryite",
+      "name": "Peryite",
+      "link": "https://en.uesp.net/wiki/Oblivion:Peryite",
+      "description": "Peryite wants you to enter the Realm of Peryite and rescue the souls of his worshippers from their folly.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "DASanguine",
+      "name": "Sanguine",
+      "link": "https://en.uesp.net/wiki/Oblivion:Sanguine",
+      "description": "Crash a dinner party at Castle Leyawiin by playing a prank for Sanguine.",
+      "completionStages": [
+        100,
+        105
+      ]
+    },
+    {
+      "id": "DASheogorath",
+      "name": "Sheogorath",
+      "link": "https://en.uesp.net/wiki/Oblivion:Sheogorath",
+      "description": "Fulfill an apocalyptic prophecy to satisfy Sheogorath's morbid sense of humor.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "DAVaermina",
+      "name": "Vaermina",
+      "link": "https://en.uesp.net/wiki/Oblivion:Vaermina",
+      "description": "Retrieve the Orb of Vaermina from the wizard, Arkved.",
+      "completionStages": [
+        100
+      ]
+    }
+  ]
+}

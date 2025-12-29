@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>OBR Quest Companion</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <div class="app">
+    <div>
+      <header class="top-bar">
+        <div class="title-group">
+          <img class="title-icon" src="images/icon.png" />
+          <div class="title-block">
+            <h1>OBR Quest<br />Companion</h1><small><span id="app-version"></span></small>
+          </div>
+        </div>
+        <div class="path-controls">
+          <label for="progress-path">Quest progress path</label>
+          <div class="path-inputs">
+            <input id="progress-path" type="text"
+              placeholder="C:\Users\MartinSeptim\Documents\My Games\Oblivion Remastered\OBSE\OBRQuestCompanion\quest_progress.json" />
+            <button id="load-progress" type="button">Load</button>
+          </div>
+          <p id="path-status" class="path-status">Waiting for quest progress…</p>
+        </div>
+      </header>
+      <div class="toggle-bar">
+        <label class="toggle" for="dark-mode-toggle">
+          <input id="dark-mode-toggle" type="checkbox" />
+          <span class="toggle-slider"></span>
+          <span class="toggle-label">Dark mode</span>
+        </label>
+        <label class="toggle" for="hide-completed-toggle">
+          <input id="hide-completed-toggle" type="checkbox" />
+          <span class="toggle-slider"></span>
+          <span class="toggle-label">Hide completed quests</span>
+        </label>
+        <label class="toggle" for="hide-descriptions-toggle">
+          <input id="hide-descriptions-toggle" type="checkbox" />
+          <span class="toggle-slider"></span>
+          <span class="toggle-label">Hide quest descriptions</span>
+        </label>
+      </div>
+    </div>
+    <main class="panels">
+      <section class="group-panel">
+        <div class="panel-header">
+          <h2>Questlines</h2>
+          <div class="panel-summary">
+            <span id="total-progress">0 / 0 completed</span>
+          </div>
+        </div>
+        <div id="group-list" class="group-list"></div>
+      </section>
+
+      <section class="quest-panel">
+        <div class="panel-header">
+          <h2 id="group-title">Select a quest group</h2>
+          <div class="panel-actions">
+            <div id="group-progress" class="panel-summary"></div>
+          </div>
+        </div>
+        <div id="quest-list" class="quest-list"></div>
+      </section>
+    </main>
+    <footer class="app-footer">
+      Quest information from the Unofficial Elder Scrolls Pages (UESP) is licensed under the Creative Commons
+      Attribution-ShareAlike 2.5 License. <a href="https://en.uesp.net/" data-external-link>UESP <b>➚</b></a> <a href="https://creativecommons.org/licenses/by-sa/2.5/" data-external-link>License <b>➚</b></a>
+      <br />The Elder Scrolls is a trademark of Bethesda Softworks LLC. Game assets © Bethesda Softworks LLC / ZeniMax Media Inc. Unofficial project.
+
+    </footer>
+  </div>
+  <script src="renderer.js"></script>
+</body>
+
+</html>

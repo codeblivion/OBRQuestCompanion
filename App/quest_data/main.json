@@ -1,0 +1,203 @@
+{
+  "id": "Main",
+  "name": "Main",
+  "icon": "https://images.uesp.net/6/68/OBR-icon-faction-Blades.png",
+  "displayOrder": 1,
+  "quests": [
+    {
+      "id": "MQ01",
+      "name": "Tutorial",
+      "link": "https://en.uesp.net/wiki/Oblivion:Tutorial",
+      "description": "You must follow the secret escape route to escape the prison.",
+      "completionStages": [
+        84,
+        100
+      ]
+    },
+    {
+      "id": "MQ02",
+      "name": "Deliver the Amulet",
+      "link": "https://en.uesp.net/wiki/Oblivion:Deliver_the_Amulet",
+      "description": "You must deliver the Amulet of Kings to Jauffre in Weynon Priory.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "MQ03",
+      "name": "Find the Heir",
+      "link": "https://en.uesp.net/wiki/Oblivion:Find_the_Heir",
+      "description": "Head to Kvatch to find the last heir.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "MS48",
+      "name": "Breaking the Siege of Kvatch",
+      "link": "https://en.uesp.net/wiki/Oblivion:Breaking_the_Siege_of_Kvatch",
+      "description": "You must help defeat the Daedra invaders and end the siege of Kvatch.",
+      "completionStages": [
+        200
+      ]
+    },
+    {
+      "id": "MS49",
+      "name": "The Battle for Castle Kvatch",
+      "link": "https://en.uesp.net/wiki/Oblivion:The_Battle_for_Castle_Kvatch",
+      "description": "Try to save the Count of Kvatch, and rid the city of any remaining Daedra.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "MQ04",
+      "name": "Weynon Priory",
+      "link": "https://en.uesp.net/wiki/Oblivion:Weynon_Priory_(quest)",
+      "description": "Return to the Priory with Martin.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "MQ05",
+      "name": "The Path of Dawn",
+      "link": "https://en.uesp.net/wiki/Oblivion:The_Path_of_Dawn",
+      "description": "You must return to Baurus in the Imperial City to try to track down the stolen Amulet of Kings.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "MQ06",
+      "name": "Dagon Shrine",
+      "link": "https://en.uesp.net/wiki/Oblivion:Dagon_Shrine",
+      "description": "Find and infiltrate the Mythic Dawn's shrine.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "MS13",
+      "name": "The Wayward Knight",
+      "link": "https://en.uesp.net/wiki/Oblivion:The_Wayward_Knight",
+      "description": "You must escort Farwil and his fellow knight through the Oblivion gate to retrieve the sigil stone to close the gate.",
+      "completionStages": [
+        100,
+        105,
+        110,
+        115,
+        150,
+        200
+      ]
+    },
+    {
+      "id": "MS94",
+      "name": "Attack on Fort Sutch",
+      "link": "https://en.uesp.net/wiki/Oblivion:Attack_on_Fort_Sutch",
+      "description": "Help a group of soldiers close an Oblivion Gate",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "MQ07",
+      "name": "Spies",
+      "link": "https://en.uesp.net/wiki/Oblivion:Spies",
+      "description": "Track down those that have been spying on Cloud Ruler Temple.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "MQ08",
+      "name": "Blood of the Daedra",
+      "link": "https://en.uesp.net/wiki/Oblivion:Blood_of_the_Daedra",
+      "description": "Locate a Daedric artifact for Martin.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "MQ09",
+      "name": "Blood of the Divines",
+      "link": "https://en.uesp.net/wiki/Oblivion:Blood_of_the_Divines",
+      "description": "Recover the blood of a god for Martin.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "MQ12",
+      "name": "Miscarcand",
+      "link": "https://en.uesp.net/wiki/Oblivion:Miscarcand_(quest)",
+      "description": "Recover a Great Welkynd Stone for Martin.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "MQ10",
+      "name": "Bruma Gate",
+      "link": "https://en.uesp.net/wiki/Oblivion:Bruma_Gate",
+      "description": "Help the Bruma guard close an Oblivion Gate just outside the city.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "MQ11",
+      "name": "Allies for Bruma",
+      "link": "https://en.uesp.net/wiki/Oblivion:Allies_for_Bruma",
+      "description": "You are asked to bring in reinforcements for Bruma from the other towns.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "MQ13",
+      "name": "Defense of Bruma",
+      "link": "https://en.uesp.net/wiki/Oblivion:Defense_of_Bruma",
+      "description": "Let a Great Oblivion Gate open outside of Bruma.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "MQ14",
+      "name": "Great Gate",
+      "link": "https://en.uesp.net/wiki/Oblivion:Great_Gate",
+      "description": "Find the Great Sigil Stone and close the Great Gate before a Daedric siege engine invades Tamriel!",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "MQ15",
+      "name": "Paradise",
+      "link": "https://en.uesp.net/wiki/Oblivion:Paradise_(quest)",
+      "description": "Enter Mankar's Paradise, and retrieve the Amulet of Kings.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "MQ16",
+      "name": "Light the Dragonfires",
+      "link": "https://en.uesp.net/wiki/Oblivion:Light_the_Dragonfires",
+      "description": "Escort Martin to the Temple of the One... but will you be able to crown him Emperor?",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "MQDragonArmor",
+      "name": "Imperial Dragon Armor",
+      "link": "https://en.uesp.net/wiki/Oblivion:Imperial_Dragon_Armor",
+      "description": "Receive your reward for saving the world.",
+      "completionStages": [
+        30
+      ]
+    }
+  ]
+}

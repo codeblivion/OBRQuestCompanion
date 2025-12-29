@@ -1,0 +1,44 @@
+{
+  "id": "Remastered Deluxe Edition",
+  "name": "Remastered Deluxe Edition",
+  "icon": "https://images.uesp.net/8/84/OBR-icon-Oblivion_Remastered.png",
+  "displayOrder": 15,
+  "quests": [
+    {
+      "id": "DEAk01",
+      "name": "A Wound In Time",
+      "link": "https://en.uesp.net/wiki/Oblivion:A_Wound_In_Time",
+      "description": "Investigate a series of kidnappings on the Gold Coast.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "DEAk02",
+      "name": "Saving Time Itself",
+      "link": "https://en.uesp.net/wiki/Oblivion:Saving_Time_Itself",
+      "description": "Recover a stolen Elder Scroll for the Order of the Hour.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "DEM01",
+      "name": "Burning Trail",
+      "link": "https://en.uesp.net/wiki/Oblivion:Burning_Trail",
+      "description": "Follow a series of notes left by the Mythic Dawn.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "DEM02",
+      "name": "The Crimson Cave",
+      "link": "https://en.uesp.net/wiki/Oblivion:The_Crimson_Cave",
+      "description": "Attend a secret meeting of the Mythic Dawn.",
+      "completionStages": [
+        100
+      ]
+    }
+  ]
+}

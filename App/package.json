@@ -1,0 +1,43 @@
+{
+  "name": "obr-quest-companion",
+  "author": {
+    "name": "codeblivion"
+  },
+  "version": "0.0.1",
+  "description": "Quest companion for The Elder Scrolls IV: Oblivion Remastered",
+  "main": "main.js",
+  "build": {
+    "appId": "com.codeblivion.questcompanion",
+    "productName": "OBR Quest Companion",
+    "publish": [
+      {
+        "provider": "github",
+        "owner": "codeblivion",
+        "repo": "OBRQuestCompanion"
+      }
+    ],
+    "win": {
+      "target": "nsis",
+      "icon": "images/icon.png"
+    },
+    "linux": {
+      "target": [
+        "AppImage"
+      ],
+      "icon": "images/icon.png"
+    }
+  },
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder",
+    "dist:publish": "electron-builder --publish always",
+    "release": "electron-builder --publish always"
+  },
+  "dependencies": {
+    "electron-updater": "^6.3.0"
+  },
+  "devDependencies": {
+    "electron": "^39.2.7",
+    "electron-builder": "^25.1.0"
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "id": "Master Training",
+  "name": "Master Training",
+  "icon": "https://images.uesp.net/5/51/OB-icon-Athletics_(title).gif",
+  "displayOrder": 10,
+  "quests": [
+    {
+      "id": "TrainingAcrobatics",
+      "name": "Acrobatics Training",
+      "link": "https://en.uesp.net/wiki/Oblivion:Acrobatics_Training",
+      "description": "Tread the difficult path to find an expert acrobat to train you further.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "TrainingAlchemy",
+      "name": "Alchemy Training",
+      "link": "https://en.uesp.net/wiki/Oblivion:Alchemy_Training",
+      "description": "Persuade a Master Alchemist to instruct you further.",
+      "completionStages": [
+        100,
+        200
+      ]
+    },
+    {
+      "id": "TrainingAlteration",
+      "name": "Alteration Training",
+      "link": "https://en.uesp.net/wiki/Oblivion:Alteration_Training",
+      "description": "Prove to an Argonian master you are worthy of further training.",
+      "completionStages": [
+        100,
+        200
+      ]
+    },
+    {
+      "id": "TrainingArmorer",
+      "name": "Armorer Training",
+      "link": "https://en.uesp.net/wiki/Oblivion:Armorer_Training",
+      "description": "Prove your smithing skills to the master.",
+      "completionStages": [
+        100,
+        200
+      ]
+    },
+    {
+      "id": "TrainingAthletics",
+      "name": "Athletics Training",
+      "link": "https://en.uesp.net/wiki/Oblivion:Athletics_Training",
+      "description": "Prove to an expert athlete that you are well-traveled enough to receive master training.",
+      "completionStages": [
+        100,
+        200
+      ]
+    },
+    {
+      "id": "TrainingBlade",
+      "name": "Blade Training",
+      "link": "https://en.uesp.net/wiki/Oblivion:Blade_Training",
+      "description": "Prove your reputation with a blade to the Master Swordsman.",
+      "completionStages": [
+        100,
+        200
+      ]
+    },
+    {
+      "id": "TrainingBlock",
+      "name": "Block Training",
+      "link": "https://en.uesp.net/wiki/Oblivion:Block_Training",
+      "description": "Demonstrate to the Master of Defense that you are proficient enough to receive her training.",
+      "completionStages": [
+        100,
+        200
+      ]
+    },
+    {
+      "id": "TrainingBlunt",
+      "name": "Blunt Training",
+      "link": "https://en.uesp.net/wiki/Oblivion:Blunt_Training",
+      "description": "A Master in blunt skills needs to know sufficient bloodthirst to receive her training.",
+      "completionStages": [
+        100,
+        200
+      ]
+    },
+    {
+      "id": "TrainingConjuration",
+      "name": "Conjuration Training",
+      "link": "https://en.uesp.net/wiki/Oblivion:Conjuration_Training",
+      "description": "A Master Conjurer wants proof of your ability before he will train you.",
+      "completionStages": [
+        100,
+        200
+      ]
+    },
+    {
+      "id": "TrainingDestruction",
+      "name": "Destruction Training",
+      "link": "https://en.uesp.net/wiki/Oblivion:Destruction_Training",
+      "description": "A Master of Destruction wants you to join her in challenging the gods to prove you deserve her training.",
+      "completionStages": [
+        100,
+        200
+      ]
+    },
+    {
+      "id": "TrainingHandtoHand",
+      "name": "Hand to Hand Training",
+      "link": "https://en.uesp.net/wiki/Oblivion:Hand_to_Hand_Training",
+      "description": "A Master of unarmed combat wants you to try to hurt him to prove you deserve his training.",
+      "completionStages": [
+        100,
+        200
+      ]
+    },
+    {
+      "id": "TrainingHeavyArmor",
+      "name": "Heavy Armor Training",
+      "link": "https://en.uesp.net/wiki/Oblivion:Heavy_Armor_Training",
+      "description": "A retired gladiator wants you to find a present for his beloved before he will train you.",
+      "completionStages": [
+        100,
+        200
+      ]
+    },
+    {
+      "id": "TrainingIllusion",
+      "name": "Illusion Training",
+      "link": "https://en.uesp.net/wiki/Oblivion:Illusion_Training",
+      "description": "Supply a master illusionist with Welkynd Stones to receive her training.",
+      "completionStages": [
+        100,
+        200
+      ]
+    },
+    {
+      "id": "TrainingLightArmor",
+      "name": "Light Armor Training",
+      "link": "https://en.uesp.net/wiki/Oblivion:Light_Armor_Training",
+      "description": "A master of light armor wants some new armor before he will train you.",
+      "completionStages": [
+        100,
+        200
+      ]
+    },
+    {
+      "id": "TrainingMarksman",
+      "name": "Marksman Training",
+      "link": "https://en.uesp.net/wiki/Oblivion:Marksman_Training",
+      "description": "A master marksman wants your equipment to be up to scratch before she will train you.",
+      "completionStages": [
+        100,
+        200
+      ]
+    },
+    {
+      "id": "TrainingMercantile",
+      "name": "Mercantile Training",
+      "link": "https://en.uesp.net/wiki/Oblivion:Mercantile_Training",
+      "description": "Prove to a master merchant that you have enough capital to receive her expertise.",
+      "completionStages": [
+        100,
+        200
+      ]
+    },
+    {
+      "id": "TrainingMysticism",
+      "name": "Mysticism Training",
+      "link": "https://en.uesp.net/wiki/Oblivion:Mysticism_Training",
+      "description": "You must begin to repel the forces of Oblivion before the master mystic will train you.",
+      "completionStages": [
+        100,
+        200
+      ]
+    },
+    {
+      "id": "trainingrestoration",
+      "name": "Restoration Training",
+      "link": "https://en.uesp.net/wiki/Oblivion:Restoration_Training",
+      "description": "A master healer will only train you if you save her city.",
+      "completionStages": [
+        100,
+        200
+      ]
+    },
+    {
+      "id": "TrainingSecurity",
+      "name": "Security Training",
+      "link": "https://en.uesp.net/wiki/Oblivion:Security_Training",
+      "description": "Act as a courier for the master of security so he will train you.",
+      "completionStages": [
+        100,
+        200
+      ]
+    },
+    {
+      "id": "TrainingSneak",
+      "name": "Sneak Training",
+      "link": "https://en.uesp.net/wiki/Oblivion:Sneak_Training",
+      "description": "Steal an item from the master of sneak to persuade her to train you.",
+      "completionStages": [
+        100,
+        200
+      ]
+    },
+    {
+      "id": "TrainingSpeechcraft",
+      "name": "Speechcraft Training",
+      "link": "https://en.uesp.net/wiki/Oblivion:Speechcraft_Training",
+      "description": "Cyrodiil's master orator wants you to comfort the unfortunate to prove yourself worthy of her training.",
+      "completionStages": [
+        100,
+        200,
+        255
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "Miscellaneous",
+  "name": "Miscellaneous",
+  "icon":"https://images.uesp.net/8/8b/OB-qico-General1.png",
+  "displayOrder": 13,
+  "quests": [
+    {
+      "id": "ms46fin",
+      "name": "Goblin Trouble",
+      "link": "https://en.uesp.net/wiki/Oblivion:Goblin_Trouble",
+      "description": "Stop a goblin war so a family can return to their village.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "SQ01",
+      "name": "The Potato Snatcher",
+      "link": "https://en.uesp.net/wiki/Oblivion:The_Potato_Snatcher",
+      "description": "S'jirra has had her potatoes stolen!",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "SQ03",
+      "name": "Revenge Served Cold",
+      "link": "https://en.uesp.net/wiki/Oblivion:Revenge_Served_Cold",
+      "description": "Help a farmer seek revenge on the goblins who killed his wife.",
+      "completionStages": [
+        100,
+        200
+      ]
+    },
+    {
+      "id": "SQ04",
+      "name": "No Stone Unturned",
+      "link": "https://en.uesp.net/wiki/Oblivion:No_Stone_Unturned",
+      "description": "Help an Altmer Sorcerer at the Imperial Bridge Inn recover his research notes.",
+      "completionStages": [
+        100,
+        200
+      ]
+    },
+    {
+      "id": "SQ05",
+      "name": "The Gravefinder's Repose",
+      "link": "https://en.uesp.net/wiki/Oblivion:The_Gravefinder's_Repose",
+      "description": "Help the innkeeper deal with a local Necromancer.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "SQ06",
+      "name": "Bear Season",
+      "link": "https://en.uesp.net/wiki/Oblivion:Bear_Season",
+      "description": "A farmer needs you to kill some bears to protect his flock of sheep.",
+      "completionStages": [
+        100,
+        200
+      ]
+    },
+    {
+      "id": "SQ07",
+      "name": "The Sunken One",
+      "link": "https://en.uesp.net/wiki/Oblivion:The_Sunken_One_(quest)",
+      "description": "Find the owner of an abandoned farmhouse.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "SQ08",
+      "name": "A Venerable Vintage",
+      "link": "https://en.uesp.net/wiki/Oblivion:A_Venerable_Vintage",
+      "description": "Nerussa would like you to collect six bottles of a rare wine for her.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "SQ09",
+      "name": "Go Fish",
+      "link": "https://en.uesp.net/wiki/Oblivion:Go_Fish",
+      "description": "Help Aelwin contribute to his retirement savings by obtaining the scales from some Rumare Slaughterfish for him to sell.",
+      "completionStages": [
+        100,
+        110,
+        200
+      ]
+    },
+    {
+      "id": "SQ10",
+      "name": "When the Vow Breaks",
+      "link": "https://en.uesp.net/wiki/Oblivion:When_the_Vow_Breaks",
+      "description": "Recover the family heirloom for an abandoned wife.",
+      "completionStages": [
+        100,
+        200
+      ]
+    },
+    {
+      "id": "MS47",
+      "name": "Zero Visibility",
+      "link": "https://en.uesp.net/wiki/Oblivion:Zero_Visibility",
+      "description": "Help the citizens of Aleswell become visible again.",
+      "completionStages": [
+        100
+      ]
+    }
+  ]
+}

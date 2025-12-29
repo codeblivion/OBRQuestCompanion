@@ -1,0 +1,102 @@
+{
+  "id": "Imperial City",
+  "name": "Imperial City",
+  "icon": "https://images.uesp.net/0/04/OBR-icon-faction-Order_of_the_Dragon.png",
+  "displayOrder": 12,
+  "quests": [
+    {
+      "id": "MS21",
+      "name": "The Collector",
+      "link": "https://en.uesp.net/wiki/Oblivion:The_Collector",
+      "description": "Help Umbacano, a collector of ancient artifacts, recover the \"Ten Ancestors\", a set of ancient Ayleid statues.",
+      "completionStages": [
+        60,
+        100
+      ]
+    },
+    {
+      "id": "MS22",
+      "name": "Nothing You Can Possess",
+      "link": "https://en.uesp.net/wiki/Oblivion:Nothing_You_Can_Possess",
+      "description": "Umbacano wants you to recover a decorative carving from the High Fane.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "MS27",
+      "name": "Secrets of the Ayleids",
+      "link": "https://en.uesp.net/wiki/Oblivion:Secrets_of_the_Ayleids",
+      "description": "Umbacano wants you to try to buy the Crown of Nenalata from a rival collector.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "MS23",
+      "name": "Order of the Virtuous Blood",
+      "link": "https://en.uesp.net/wiki/Oblivion:Order_of_the_Virtuous_Blood_(quest)",
+      "description": "You are asked to help kill a vampire.",
+      "completionStages": [
+        160,
+        200,
+        250
+      ]
+    },
+    {
+      "id": "MS26",
+      "name": "Imperial Corruption",
+      "link": "https://en.uesp.net/wiki/Oblivion:Imperial_Corruption",
+      "description": "One of the Imperial Guard captains in the Imperial City is corrupt.",
+      "completionStages": [
+        91,
+        119
+      ]
+    },
+    {
+      "id": "MS29",
+      "name": "Unfriendly Competition",
+      "link": "https://en.uesp.net/wiki/Oblivion:Unfriendly_Competition",
+      "description": "A newly opened shop run by Thoronir is selling goods below cost, causing big problems for the other merchants.",
+      "completionStages": [
+        150,
+        200
+      ]
+    },
+    {
+      "id": "MS31",
+      "name": "An Unexpected Voyage",
+      "link": "https://en.uesp.net/wiki/Oblivion:An_Unexpected_Voyage",
+      "description": "The Bloated Float Inn has been hijacked by brigands while you slept!",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "MS40",
+      "name": "Vampire Cure",
+      "link": "https://en.uesp.net/wiki/Oblivion:Vampire_Cure",
+      "description": "A long quest to gain the cure for vampirism.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "arenadialogue",
+      "name": "Imperial Arena",
+      "link": "https://en.uesp.net/wiki/Oblivion:Arena_(faction)#Journal_Entries",
+      "description": "Rise through the ranks to become the Imperial Arena Grand Champion.",
+      "completionStages": []
+    },
+    {
+      "id": "MS52",
+      "name": "Origin of the Gray Prince",
+      "link": "https://en.uesp.net/wiki/Oblivion:Origin_of_the_Gray_Prince",
+      "description": "Agronak gro-Malog, the Imperial Arena Grand Champion asks you to find proof of his noble birthright.",
+      "completionStages": [
+        100,
+        115
+      ]
+    }
+  ]
+}

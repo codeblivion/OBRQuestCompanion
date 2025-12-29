@@ -1,0 +1,150 @@
+{
+  "id": "Shivering Isles: Misc",
+  "name": "Shivering Isles: Misc",
+  "icon": "https://images.uesp.net/8/83/SI-qico-General1.png",
+  "displayOrder": 4,
+  "quests": [
+    {
+      "id": "SE30",
+      "name": "The Antipodean Hammer",
+      "link": "https://en.uesp.net/wiki/Shivering:The_Antipodean_Hammer",
+      "description": "Find Amber and Madness Ore for two rival Blacksmiths.",
+      "completionStages": []
+    },
+    {
+      "id": "SE32",
+      "name": "Ghosts of Vitharn",
+      "link": "https://en.uesp.net/wiki/Shivering:Ghosts_of_Vitharn",
+      "description": "Set things right for the ghosts of a fallen castle.",
+      "completionStages": [
+        200
+      ]
+    },
+    {
+      "id": "SE34",
+      "name": "To Help A Hero",
+      "link": "https://en.uesp.net/wiki/Shivering:To_Help_A_Hero",
+      "description": "Retrieve the stolen medallion of a Knight of the Thorn.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "SE35",
+      "name": "Brithaur",
+      "link": "https://en.uesp.net/wiki/Shivering:Brithaur_(quest)",
+      "description": "Stop him from making everyone go crazy! Oh wait...",
+      "completionStages": [
+        200
+      ]
+    },
+    {
+      "id": "SE36",
+      "name": "Final Resting",
+      "link": "https://en.uesp.net/wiki/Shivering:Final_Resting",
+      "description": "Help Hirrus Clutumnus end his life.",
+      "completionStages": [
+        200,
+        210
+      ]
+    },
+    {
+      "id": "SE37",
+      "name": "Taxonomy of Obsession",
+      "link": "https://en.uesp.net/wiki/Shivering:Taxonomy_of_Obsession",
+      "description": "Help a Dunmer finish her research.",
+      "completionStages": [
+        200,
+        210
+      ]
+    },
+    {
+      "id": "SE38",
+      "name": "The Museum of Oddities",
+      "link": "https://en.uesp.net/wiki/Shivering:The_Museum_of_Oddities",
+      "description": "Una Armina wants you to find \"Oddities\" for her museum.",
+      "completionStages": [
+        190,
+        200
+      ]
+    },
+    {
+      "id": "SE39",
+      "name": "Everything In Its Place",
+      "link": "https://en.uesp.net/wiki/Shivering:Everything_In_Its_Place",
+      "description": "\"Liberate\" a farm's Khajiit workers from the \"cruel mind control\" of their overseer.",
+      "completionStages": [
+        200,
+        210,
+        220
+      ]
+    },
+    {
+      "id": "SE40",
+      "name": "Falling Awake",
+      "link": "https://en.uesp.net/wiki/Shivering:Falling_Awake",
+      "description": "Find a place to sleep for a scared Breton.",
+      "completionStages": [
+        200
+      ]
+    },
+    {
+      "id": "SE41",
+      "name": "A Liquid Solution",
+      "link": "https://en.uesp.net/wiki/Shivering:A_Liquid_Solution",
+      "description": "Find the Ultimate Cure.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "SE42",
+      "name": "Work is Never Done",
+      "link": "https://en.uesp.net/wiki/Shivering:Work_is_Never_Done",
+      "description": "Help Tove the Unrestful build a sky boat from calipers and tongs.",
+      "completionStages": [
+        200,
+        210
+      ]
+    },
+    {
+      "id": "SE46",
+      "name": "The Great Divide",
+      "link": "https://en.uesp.net/wiki/Shivering:The_Great_Divide",
+      "description": "Resolve the \"trouble of doubles\".",
+      "completionStages": [
+        200,
+        210
+      ]
+    },
+    {
+      "id": "SE43",
+      "name": "Ushnar's Terror",
+      "link": "https://en.uesp.net/wiki/Shivering:Ushnar's_Terror",
+      "description": "Ushnar is terrified of cats, but unfortunately a Khajiit beggar has become his shadow.",
+      "completionStages": [
+        200
+      ]
+    },
+    {
+      "id": "SE44",
+      "name": "The Coming Storm",
+      "link": "https://en.uesp.net/wiki/Shivering:The_Coming_Storm",
+      "description": "Help Ahjazda prepare for the storm.",
+      "completionStages": [
+        200,
+        201
+      ]
+    },
+    {
+      "id": "SE45",
+      "name": "The Fork of Horripilation",
+      "link": "https://en.uesp.net/wiki/Shivering:The_Fork_of_Horripilation",
+      "description": "Find the Fork of Horripilation for Big Head!",
+      "completionStages": [
+        200,
+        205
+      ]
+    }
+  ]
+}
