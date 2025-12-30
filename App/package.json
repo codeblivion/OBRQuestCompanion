@@ -18,13 +18,15 @@
     ],
     "win": {
       "target": "nsis",
-      "icon": "images/icon.png"
+      "icon": "images/icon.png",
+      "artifactName": "OBR-Quest-Companion-Setup-${version}.${ext}"
     },
     "linux": {
       "target": [
         "AppImage"
       ],
-      "icon": "images/icon.png"
+      "icon": "images/icon.png",
+      "artifactName": "OBR-Quest-Companion-Setup-${version}.${ext}"
     }
   },
   "scripts": {
