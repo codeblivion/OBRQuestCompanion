@@ -3,7 +3,7 @@
   "author": {
     "name": "codeblivion"
   },
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Quest companion for The Elder Scrolls IV: Oblivion Remastered",
   "main": "main.js",
   "build": {
