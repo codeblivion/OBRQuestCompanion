@@ -5,7 +5,7 @@ An external companion app for *The Elder Scrolls IV: Oblivion Remastered* that a
 ## What It Does
 - Provides an external UI to track your overall quest progress
 - Automatically fetches quest progress
-  - OBSE Plugin: fetches roughly once per minute
+  - OBSE64 Plugin: fetches roughly once per minute
   - ue4ss Plugin: fetches each time the game is saved
 - Groups quests by category
 - Has toggles to hide completed quests and quest descriptions
