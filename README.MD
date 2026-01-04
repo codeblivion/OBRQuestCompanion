@@ -1,10 +1,12 @@
 # OBR Quest Companion
 
-An external companion app for *The Elder Scrolls IV: Oblivion Remastered* that automatically tracks quest progress outside the game. Built with Electron and powered by a custom OBSE64 plugin.
+An external companion app for *The Elder Scrolls IV: Oblivion Remastered* that automatically tracks quest progress outside the game. Built with Electron and powered by a custom OBSE64/ue4ss plugin.
 
 ## What It Does
 - Provides an external UI to track your overall quest progress
-- Automatically fetches quest progress via an OBSE64 plugin (exports data about once per minute)
+- Automatically fetches quest progress
+  - OBSE Plugin: fetches roughly once per minute
+  - ue4ss Plugin: fetches each time the game is saved
 - Groups quests by category
 - Has toggles to hide completed quests and quest descriptions
 - Links directly to UESP quest pages
@@ -26,18 +28,23 @@ This is a fan-made, open source project built in my spare time. Updates will be 
 
 ## Installation
 
-### Plugin
+### Plugin (OBSE64 Variant)
 - Install [OBSE64](https://www.nexusmods.com/oblivionremastered/mods/282).
-- Download the OBR Quest Companion plugin from [Nexus Mods](https://www.nexusmods.com/oblivionremastered/mods/).
+- Download the OBR Quest Companion OBSE64 plugin from [Nexus Mods](https://www.nexusmods.com/oblivionremastered/mods/).
 - Install `obr_quest_companion.dll` in the `Oblivion Remastered\OblivionRemastered\Binaries\Win64\OBSE\Plugins` directory.
+
+### Plugin (ue4ss Variant)
+- Install [ue4ss](https://www.nexusmods.com/oblivionremastered/mods/32) and [ConsoleUtils](https://www.nexusmods.com/oblivionremastered/mods/5021).
+- Download the OBR Quest Companion ue4ss plugin from [Nexus Mods](https://www.nexusmods.com/oblivionremastered/mods/).
+- Install the `OBRQuestCompanion` folder in the `Oblivion Remastered\OblivionRemastered\Binaries\Win64\ue4ss\Mods` directory.
 
 ### Companion App
 - Download and install the latest Windows/Linux version of OBR Quest Companion from the [Latest GitHub Release Page](https://github.com/codeblivion/OBRQuestCompanion/releases/latest).
-- Start the game and load a save. After a minute or so, you will find `quest_progress.json` in the `Documents\My Games\Oblivion Remastered\OBSE\OBRQuestCompanion` directory.
+- Start the game and load a save. After a minute or so (OBSE64), or saving the game (ue4ss), you will find `quest_progress.json` in the `Documents\My Games\Oblivion Remastered\OBSE\OBRQuestCompanion` directory.
 - Open OBR Quest Companion. Enter the full path of the JSON file into the bar at the top. 
     - E.g. `C:\Users\MartinSeptim\Documents\My Games\Oblivion Remastered\OBSE\OBRQuestCompanion\quest_progress.json`
 - Click the `Load` button.
-- The app will automatically refresh quest progress about once per minute.
+- The app will automatically refresh the file every minute or so.
 
 ## License
 
