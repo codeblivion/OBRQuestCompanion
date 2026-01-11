@@ -14,39 +14,12 @@
       ]
     },
     {
-      "id": "DLCBattlehornCastle",
-      "name": "Battlehorn Castle",
-      "link": "https://en.uesp.net/wiki/Oblivion:Battlehorn_Castle_(quest)",
-      "description": "Rescue Battlehorn Castle from marauders, and claim it as your own.",
+      "id": "HouseBruma",
+      "name": "Buying a house in Bruma",
+      "link": "https://en.uesp.net/wiki/Oblivion:Bruma_House_for_Sale",
+      "description": "Purchase house in eastern Bruma.",
       "completionStages": [
-        100
-      ]
-    },
-    {
-      "id": "DLCDeepscorn",
-      "name": "Deepscorn Hollow",
-      "link": "https://en.uesp.net/wiki/Oblivion:Deepscorn_Hollow_(quest)",
-      "description": "Deepscorn Hollow is an asylum for the wicked, a refuge from the persecution of the virtuous.",
-      "completionStages": [
-        50
-      ]
-    },
-    {
-      "id": "DLC06ThievesDen",
-      "name": "Dunbarrow Cove",
-      "link": "https://en.uesp.net/wiki/Oblivion:Dunbarrow_Cove_(quest)",
-      "description": "Uncover a famous pirate's lost ship and claim it as your own.",
-      "completionStages": [
-        100
-      ]
-    },
-    {
-      "id": "DLCFrostcragSpire",
-      "name": "Frostcrag Spire",
-      "link": "https://en.uesp.net/wiki/Oblivion:Frostcrag_Spire_(quest)",
-      "description": "In the frozen mountains of Cyrodiil stands Frostcrag Spire, a tower of wonders for your magic-oriented character to call home.",
-      "completionStages": [
-        50
+        30
       ]
     },
     {
@@ -110,6 +83,42 @@
       "description": "It's your chance to buy a large manor, cheap! There's only one little snag...",
       "completionStages": [
         120
+      ]
+    },
+        {
+      "id": "DLCBattlehornCastle",
+      "name": "Battlehorn Castle",
+      "link": "https://en.uesp.net/wiki/Oblivion:Battlehorn_Castle_(quest)",
+      "description": "Rescue Battlehorn Castle from marauders, and claim it as your own.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "DLCDeepscorn",
+      "name": "Deepscorn Hollow",
+      "link": "https://en.uesp.net/wiki/Oblivion:Deepscorn_Hollow_(quest)",
+      "description": "Deepscorn Hollow is an asylum for the wicked, a refuge from the persecution of the virtuous.",
+      "completionStages": [
+        50
+      ]
+    },
+    {
+      "id": "DLC06ThievesDen",
+      "name": "Dunbarrow Cove",
+      "link": "https://en.uesp.net/wiki/Oblivion:Dunbarrow_Cove_(quest)",
+      "description": "Uncover a famous pirate's lost ship and claim it as your own.",
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "DLCFrostcragSpire",
+      "name": "Frostcrag Spire",
+      "link": "https://en.uesp.net/wiki/Oblivion:Frostcrag_Spire_(quest)",
+      "description": "In the frozen mountains of Cyrodiil stands Frostcrag Spire, a tower of wonders for your magic-oriented character to call home.",
+      "completionStages": [
+        50
       ]
     }
   ]
