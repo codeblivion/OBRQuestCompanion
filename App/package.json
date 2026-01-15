@@ -36,10 +36,10 @@
     "release": "electron-builder --publish always"
   },
   "dependencies": {
-    "electron-updater": "^6.3.0"
+    "electron-updater": "^6.7.3"
   },
   "devDependencies": {
     "electron": "^39.2.7",
-    "electron-builder": "^25.1.0"
+    "electron-builder": "^26.4.0"
   }
 }

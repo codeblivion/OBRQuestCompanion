@@ -32,6 +32,15 @@
       ]
     },
     {
+      "id": "HouseChorrol",
+      "name": "Buying a house in Chorrol",
+      "link": "https://en.uesp.net/wiki/Oblivion:Buying_a_house_in_Chorrol",
+      "description": "Purchase a house in Chorrol's Great Oak Place.",
+      "completionStages": [
+        30
+      ]
+    },
+    {
       "id": "HouseLeyawiin",
       "name": "Buying a house in Leyawiin",
       "link": "https://en.uesp.net/wiki/Oblivion:Buying_a_house_in_Leyawiin",
