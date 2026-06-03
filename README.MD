@@ -27,6 +27,7 @@ An external companion app for *The Elder Scrolls IV: Oblivion Remastered* that a
 This is a fan-made, open source project built in my spare time. Updates will be infrequent, so please don’t expect regular releases or fast fixes. Pull requests are welcome, but turnaround may be slow. If you want to extend this, fix problems, or turn it into something better, feel free to fork it or build on this project. Just make sure you follow the licenses and give appropriate credit where required.
 
 ## Installation
+*Note: these directories are for the Steam version and may differ for the Game Pass version.*
 
 ### Plugin (OBSE64 Variant)
 - Install [OBSE64](https://www.nexusmods.com/oblivionremastered/mods/282).
@@ -97,6 +98,16 @@ OBSE64 is **not distributed** with this project and must be installed separately
 by the user.
 
 - Project: https://github.com/ianpatt/obse64
+
+---
+
+### UE4SS for OblivionRemastered (UE4SS)
+
+This project interfaces with **UE4SS** at runtime.  
+UE4SS is **not distributed** with this project and must be installed separately
+by the user.
+
+- Project: https://www.nexusmods.com/oblivionremastered/mods/32
 
 ---
 
