@@ -7,6 +7,10 @@
     {
       "id": "TG00FindThievesGuild",
       "name": "Finding the Thieves Guild",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "0355DF"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Finding_the_Thieves_Guild",
       "description": "So you want to join the Thieves Guild? Don't you know it doesn't even exist?",
       "completionStages": [
@@ -16,6 +20,10 @@
     {
       "id": "TG01BestThief",
       "name": "May the Best Thief Win",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "0355E1"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:May_the_Best_Thief_Win",
       "description": "You want to join, but are you a good enough thief?",
       "completionStages": [
@@ -28,6 +36,10 @@
     {
       "id": "TGStolenGoods",
       "name": "Independent Thievery",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "01EE46"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Independent_Thievery",
       "description": "Steal as much as you can, and sell it to a Thieves Guild fence.",
       "completionStages": [
@@ -37,6 +49,10 @@
     {
       "id": "TG02taxes",
       "name": "Untaxing the Poor",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "03486D"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Untaxing_the_Poor",
       "description": "Steal the tax records for the Waterfront residents.",
       "completionStages": [
@@ -48,6 +64,10 @@
     {
       "id": "TG03Elven",
       "name": "The Elven Maiden",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "034EA2"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:The_Elven_Maiden",
       "description": "Steal a statuette for a mystery buyer.",
       "completionStages": [
@@ -59,6 +79,10 @@
     {
       "id": "TG04Mistake",
       "name": "Ahdarji's Heirloom",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "035DE0"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Ahdarji's_Heirloom",
       "description": "Recover a ring stolen by a freelance thief.",
       "completionStages": [
@@ -70,6 +94,10 @@
     {
       "id": "TG05Misdirection",
       "name": "Misdirection",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "036332"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Misdirection",
       "description": "Help the Thieves Guild get the waterfront back to normal.",
       "completionStages": [
@@ -81,6 +109,10 @@
     {
       "id": "TG06Atonement",
       "name": "Lost Histories",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "036333"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Lost_Histories",
       "description": "Finish a job from which a guildmate has not returned.",
       "completionStages": [
@@ -92,6 +124,10 @@
     {
       "id": "TG07Lex",
       "name": "Taking Care of Lex",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "036334"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Taking_Care_of_Lex",
       "description": "Get Hieronymus Lex reassigned.",
       "completionStages": [
@@ -103,6 +139,10 @@
     {
       "id": "TG08Blind",
       "name": "Turning a Blind Eye",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "036335"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Turning_a_Blind_Eye",
       "description": "Steal a stone for the Gray Fox.",
       "completionStages": [
@@ -114,6 +154,10 @@
     {
       "id": "TG09Arrow",
       "name": "Arrow of Extrication",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "036336"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Arrow_of_Extrication",
       "description": "Steal an arrow for the Gray Fox.",
       "completionStages": [
@@ -126,6 +170,10 @@
     {
       "id": "TG10Boots",
       "name": "Boots of Springheel Jak",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "036337"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Boots_of_Springheel_Jak",
       "description": "Find out where Springheel Jak is buried and retrieve a pair of magical boots for the Gray Fox.",
       "completionStages": [
@@ -138,6 +186,10 @@
     {
       "id": "tg11heist",
       "name": "The Ultimate Heist",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "036338"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:The_Ultimate_Heist",
       "description": "Steal an Elder Scroll for the Gray Fox, and for glory!",
       "completionStages": [

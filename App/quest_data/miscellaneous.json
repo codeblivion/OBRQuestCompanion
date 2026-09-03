@@ -1,12 +1,16 @@
 {
   "id": "Miscellaneous",
   "name": "Miscellaneous",
-  "icon":"https://images.uesp.net/8/8b/OB-qico-General1.png",
+  "icon": "https://images.uesp.net/8/8b/OB-qico-General1.png",
   "displayOrder": 13,
   "quests": [
     {
       "id": "ms46fin",
       "name": "Goblin Trouble",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "03155C"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Goblin_Trouble",
       "description": "Stop a goblin war so a family can return to their village.",
       "completionStages": [
@@ -16,6 +20,10 @@
     {
       "id": "SQ01",
       "name": "The Potato Snatcher",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "177A31"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:The_Potato_Snatcher",
       "description": "S'jirra has had her potatoes stolen!",
       "completionStages": [
@@ -25,6 +33,10 @@
     {
       "id": "SQ03",
       "name": "Revenge Served Cold",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "185FE8"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Revenge_Served_Cold",
       "description": "Help a farmer seek revenge on the goblins who killed his wife.",
       "completionStages": [
@@ -35,6 +47,10 @@
     {
       "id": "SQ04",
       "name": "No Stone Unturned",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "185FE9"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:No_Stone_Unturned",
       "description": "Help an Altmer Sorcerer at the Imperial Bridge Inn recover his research notes.",
       "completionStages": [
@@ -45,6 +61,10 @@
     {
       "id": "SQ05",
       "name": "The Gravefinder's Repose",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "185FEA"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:The_Gravefinder's_Repose",
       "description": "Help the innkeeper deal with a local Necromancer.",
       "completionStages": [
@@ -54,6 +74,10 @@
     {
       "id": "SQ06",
       "name": "Bear Season",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "185FEB"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Bear_Season",
       "description": "A farmer needs you to kill some bears to protect his flock of sheep.",
       "completionStages": [
@@ -64,6 +88,10 @@
     {
       "id": "SQ07",
       "name": "The Sunken One",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "185FEC"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:The_Sunken_One_(quest)",
       "description": "Find the owner of an abandoned farmhouse.",
       "completionStages": [
@@ -73,6 +101,10 @@
     {
       "id": "SQ08",
       "name": "A Venerable Vintage",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "185FED"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:A_Venerable_Vintage",
       "description": "Nerussa would like you to collect six bottles of a rare wine for her.",
       "completionStages": [
@@ -82,6 +114,10 @@
     {
       "id": "SQ09",
       "name": "Go Fish",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "185FEE"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Go_Fish",
       "description": "Help Aelwin contribute to his retirement savings by obtaining the scales from some Rumare Slaughterfish for him to sell.",
       "completionStages": [
@@ -93,6 +129,10 @@
     {
       "id": "SQ10",
       "name": "When the Vow Breaks",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "185FEF"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:When_the_Vow_Breaks",
       "description": "Recover the family heirloom for an abandoned wife.",
       "completionStages": [
@@ -103,6 +143,10 @@
     {
       "id": "MS47",
       "name": "Zero Visibility",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "02F86B"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Zero_Visibility",
       "description": "Help the citizens of Aleswell become visible again.",
       "completionStages": [

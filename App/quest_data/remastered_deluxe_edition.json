@@ -7,6 +7,10 @@
     {
       "id": "DEAk01",
       "name": "A Wound In Time",
+      "record": {
+        "plugin": "AltarDeluxe.esp",
+        "objectId": "014E1F"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:A_Wound_In_Time",
       "description": "Investigate a series of kidnappings on the Gold Coast.",
       "completionStages": [
@@ -16,6 +20,10 @@
     {
       "id": "DEAk02",
       "name": "Saving Time Itself",
+      "record": {
+        "plugin": "AltarDeluxe.esp",
+        "objectId": "014E23"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Saving_Time_Itself",
       "description": "Recover a stolen Elder Scroll for the Order of the Hour.",
       "completionStages": [
@@ -25,6 +33,10 @@
     {
       "id": "DEM01",
       "name": "Burning Trail",
+      "record": {
+        "plugin": "AltarDeluxe.esp",
+        "objectId": "014D90"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Burning_Trail",
       "description": "Follow a series of notes left by the Mythic Dawn.",
       "completionStages": [
@@ -34,6 +46,10 @@
     {
       "id": "DEM02",
       "name": "The Crimson Cave",
+      "record": {
+        "plugin": "AltarDeluxe.esp",
+        "objectId": "014EAD"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:The_Crimson_Cave",
       "description": "Attend a secret meeting of the Mythic Dawn.",
       "completionStages": [

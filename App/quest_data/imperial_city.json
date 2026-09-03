@@ -7,6 +7,10 @@
     {
       "id": "MS21",
       "name": "The Collector",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "02AB4A"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:The_Collector",
       "description": "Help Umbacano, a collector of ancient artifacts, recover the \"Ten Ancestors\", a set of ancient Ayleid statues.",
       "completionStages": [
@@ -17,6 +21,10 @@
     {
       "id": "MS22",
       "name": "Nothing You Can Possess",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "02B19E"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Nothing_You_Can_Possess",
       "description": "Umbacano wants you to recover a decorative carving from the High Fane.",
       "completionStages": [
@@ -26,6 +34,10 @@
     {
       "id": "MS27",
       "name": "Secrets of the Ayleids",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "02E5BE"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Secrets_of_the_Ayleids",
       "description": "Umbacano wants you to try to buy the Crown of Nenalata from a rival collector.",
       "completionStages": [
@@ -35,6 +47,10 @@
     {
       "id": "MS23",
       "name": "Order of the Virtuous Blood",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "01D21C"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Order_of_the_Virtuous_Blood_(quest)",
       "description": "You are asked to help kill a vampire.",
       "completionStages": [
@@ -46,6 +62,10 @@
     {
       "id": "MS26",
       "name": "Imperial Corruption",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "035CA8"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Imperial_Corruption",
       "description": "One of the Imperial Guard captains in the Imperial City is corrupt.",
       "completionStages": [
@@ -56,6 +76,10 @@
     {
       "id": "MS29",
       "name": "Unfriendly Competition",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "016718"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Unfriendly_Competition",
       "description": "A newly opened shop run by Thoronir is selling goods below cost, causing big problems for the other merchants.",
       "completionStages": [
@@ -66,6 +90,10 @@
     {
       "id": "MS31",
       "name": "An Unexpected Voyage",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "00C1B8"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:An_Unexpected_Voyage",
       "description": "The Bloated Float Inn has been hijacked by brigands while you slept!",
       "completionStages": [
@@ -75,6 +103,10 @@
     {
       "id": "MS40",
       "name": "Vampire Cure",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "03E933"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Vampire_Cure",
       "description": "A long quest to gain the cure for vampirism.",
       "completionStages": [
@@ -84,13 +116,177 @@
     {
       "id": "arenadialogue",
       "name": "Imperial Arena",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "0E0C91"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Arena_(faction)#Journal_Entries",
       "description": "Rise through the ranks to become the Imperial Arena Grand Champion.",
-      "completionStages": []
+      "completionStages": [
+        100
+      ]
+    },
+    {
+      "id": "Arena1",
+      "name": "Pit Dog Matches",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "02991F"
+      },
+      "link": "https://en.uesp.net/wiki/Oblivion:Arena_(faction)#Journal_Entries",
+      "description": "Win three Pit Dog matches.",
+      "completionStages": [],
+      "tracking": {
+        "mode": "questVariable",
+        "variable": {
+          "index": 3,
+          "name": "CombatantsKilled"
+        },
+        "completeWhen": {
+          "operator": ">=",
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": "Arena2",
+      "name": "Brawler Matches",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "02991F"
+      },
+      "link": "https://en.uesp.net/wiki/Oblivion:Arena_(faction)#Journal_Entries",
+      "description": "Win three Brawler matches.",
+      "completionStages": [],
+      "tracking": {
+        "mode": "questVariable",
+        "variable": {
+          "index": 3,
+          "name": "CombatantsKilled"
+        },
+        "completeWhen": {
+          "operator": ">=",
+          "value": 7
+        }
+      }
+    },
+    {
+      "id": "Arena3",
+      "name": "Bloodletter Matches",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "02991F"
+      },
+      "link": "https://en.uesp.net/wiki/Oblivion:Arena_(faction)#Journal_Entries",
+      "description": "Win three Bloodletter matches.",
+      "completionStages": [],
+      "tracking": {
+        "mode": "questVariable",
+        "variable": {
+          "index": 3,
+          "name": "CombatantsKilled"
+        },
+        "completeWhen": {
+          "operator": ">=",
+          "value": 10
+        }
+      }
+    },
+    {
+      "id": "Arena4",
+      "name": "Myrmidon Matches",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "02991F"
+      },
+      "link": "https://en.uesp.net/wiki/Oblivion:Arena_(faction)#Journal_Entries",
+      "description": "Win three Myrmidon matches.",
+      "completionStages": [],
+      "tracking": {
+        "mode": "questVariable",
+        "variable": {
+          "index": 3,
+          "name": "CombatantsKilled"
+        },
+        "completeWhen": {
+          "operator": ">=",
+          "value": 13
+        }
+      }
+    },
+    {
+      "id": "Arena5",
+      "name": "Warrior Matches",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "02991F"
+      },
+      "link": "https://en.uesp.net/wiki/Oblivion:Arena_(faction)#Journal_Entries",
+      "description": "Win three Warrior matches.",
+      "completionStages": [],
+      "tracking": {
+        "mode": "questVariable",
+        "variable": {
+          "index": 3,
+          "name": "CombatantsKilled"
+        },
+        "completeWhen": {
+          "operator": ">=",
+          "value": 16
+        }
+      }
+    },
+    {
+      "id": "Arena6",
+      "name": "Gladiator Matches",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "02991F"
+      },
+      "link": "https://en.uesp.net/wiki/Oblivion:Arena_(faction)#Journal_Entries",
+      "description": "Win three Gladiator matches.",
+      "completionStages": [],
+      "tracking": {
+        "mode": "questVariable",
+        "variable": {
+          "index": 3,
+          "name": "CombatantsKilled"
+        },
+        "completeWhen": {
+          "operator": ">=",
+          "value": 21
+        }
+      }
+    },
+    {
+      "id": "Arena7",
+      "name": "Hero Matches",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "02991F"
+      },
+      "link": "https://en.uesp.net/wiki/Oblivion:Arena_(faction)#Journal_Entries",
+      "description": "Win three Hero matches and become a Champion!",
+      "completionStages": [],
+      "tracking": {
+        "mode": "questVariable",
+        "variable": {
+          "index": 3,
+          "name": "CombatantsKilled"
+        },
+        "completeWhen": {
+          "operator": ">=",
+          "value": 26
+        }
+      }
     },
     {
       "id": "MS52",
       "name": "Origin of the Gray Prince",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "038ED6"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Origin_of_the_Gray_Prince",
       "description": "Agronak gro-Malog, the Imperial Arena Grand Champion asks you to find proof of his noble birthright.",
       "completionStages": [

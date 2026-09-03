@@ -7,6 +7,10 @@
     {
       "id": "MQ01",
       "name": "Tutorial",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "01E723"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Tutorial",
       "description": "You must follow the secret escape route to escape the prison.",
       "completionStages": [
@@ -17,6 +21,10 @@
     {
       "id": "MQ02",
       "name": "Deliver the Amulet",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "01E724"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Deliver_the_Amulet",
       "description": "You must deliver the Amulet of Kings to Jauffre in Weynon Priory.",
       "completionStages": [
@@ -26,6 +34,10 @@
     {
       "id": "MQ03",
       "name": "Find the Heir",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "01E725"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Find_the_Heir",
       "description": "Head to Kvatch to find the last heir.",
       "completionStages": [
@@ -35,6 +47,10 @@
     {
       "id": "MS48",
       "name": "Breaking the Siege of Kvatch",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "0224D8"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Breaking_the_Siege_of_Kvatch",
       "description": "You must help defeat the Daedra invaders and end the siege of Kvatch.",
       "completionStages": [
@@ -44,6 +60,10 @@
     {
       "id": "MS49",
       "name": "The Battle for Castle Kvatch",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "028C72"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:The_Battle_for_Castle_Kvatch",
       "description": "Try to save the Count of Kvatch, and rid the city of any remaining Daedra.",
       "completionStages": [
@@ -53,6 +73,10 @@
     {
       "id": "MQ04",
       "name": "Weynon Priory",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "01E726"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Weynon_Priory_(quest)",
       "description": "Return to the Priory with Martin.",
       "completionStages": [
@@ -62,6 +86,10 @@
     {
       "id": "MQ05",
       "name": "The Path of Dawn",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "01E727"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:The_Path_of_Dawn",
       "description": "You must return to Baurus in the Imperial City to try to track down the stolen Amulet of Kings.",
       "completionStages": [
@@ -71,6 +99,10 @@
     {
       "id": "MQ06",
       "name": "Dagon Shrine",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "01E728"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Dagon_Shrine",
       "description": "Find and infiltrate the Mythic Dawn's shrine.",
       "completionStages": [
@@ -80,6 +112,10 @@
     {
       "id": "MS13",
       "name": "The Wayward Knight",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "031B77"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:The_Wayward_Knight",
       "description": "You must escort Farwil and his fellow knight through the Oblivion gate to retrieve the sigil stone to close the gate.",
       "completionStages": [
@@ -94,6 +130,10 @@
     {
       "id": "MS94",
       "name": "Attack on Fort Sutch",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "097CA8"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Attack_on_Fort_Sutch",
       "description": "Help a group of soldiers close an Oblivion Gate",
       "completionStages": [
@@ -103,6 +143,10 @@
     {
       "id": "MQ07",
       "name": "Spies",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "01E729"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Spies",
       "description": "Track down those that have been spying on Cloud Ruler Temple.",
       "completionStages": [
@@ -112,6 +156,10 @@
     {
       "id": "MQ08",
       "name": "Blood of the Daedra",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "01E72A"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Blood_of_the_Daedra",
       "description": "Locate a Daedric artifact for Martin.",
       "completionStages": [
@@ -121,6 +169,10 @@
     {
       "id": "MQ09",
       "name": "Blood of the Divines",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "01E72B"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Blood_of_the_Divines",
       "description": "Recover the blood of a god for Martin.",
       "completionStages": [
@@ -130,6 +182,10 @@
     {
       "id": "MQ12",
       "name": "Miscarcand",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "01E72E"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Miscarcand_(quest)",
       "description": "Recover a Great Welkynd Stone for Martin.",
       "completionStages": [
@@ -139,6 +195,10 @@
     {
       "id": "MQ10",
       "name": "Bruma Gate",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "01E72C"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Bruma_Gate",
       "description": "Help the Bruma guard close an Oblivion Gate just outside the city.",
       "completionStages": [
@@ -148,6 +208,10 @@
     {
       "id": "MQ11",
       "name": "Allies for Bruma",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "01E72D"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Allies_for_Bruma",
       "description": "You are asked to bring in reinforcements for Bruma from the other towns.",
       "completionStages": [
@@ -157,6 +221,10 @@
     {
       "id": "MQ13",
       "name": "Defense of Bruma",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "01E72F"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Defense_of_Bruma",
       "description": "Let a Great Oblivion Gate open outside of Bruma.",
       "completionStages": [
@@ -166,6 +234,10 @@
     {
       "id": "MQ14",
       "name": "Great Gate",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "01E730"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Great_Gate",
       "description": "Find the Great Sigil Stone and close the Great Gate before a Daedric siege engine invades Tamriel!",
       "completionStages": [
@@ -175,6 +247,10 @@
     {
       "id": "MQ15",
       "name": "Paradise",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "00C20B"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Paradise_(quest)",
       "description": "Enter Mankar's Paradise, and retrieve the Amulet of Kings.",
       "completionStages": [
@@ -184,6 +260,10 @@
     {
       "id": "MQ16",
       "name": "Light the Dragonfires",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "02A38F"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Light_the_Dragonfires",
       "description": "Escort Martin to the Temple of the One... but will you be able to crown him Emperor?",
       "completionStages": [
@@ -193,6 +273,10 @@
     {
       "id": "MQDragonArmor",
       "name": "Imperial Dragon Armor",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "0ADE3F"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Imperial_Dragon_Armor",
       "description": "Receive your reward for saving the world.",
       "completionStages": [

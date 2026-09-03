@@ -1,12 +1,16 @@
 {
   "id": "Mages Guild",
   "name": "Mages Guild",
-  "icon":"https://images.uesp.net/a/a7/OBR-icon-faction-Mages_Guild-Arch_Mage.png",
+  "icon": "https://images.uesp.net/a/a7/OBR-icon-faction-Mages_Guild-Arch_Mage.png",
   "displayOrder": 6,
   "quests": [
     {
       "id": "MG00Join",
       "name": "Join the Mages Guild",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "02CD10"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Join_the_Mages_Guild",
       "description": "Join the Mages Guild and earn recommendations from all guild leaders to gain access to the Arcane University.",
       "completionStages": [
@@ -16,6 +20,10 @@
     {
       "id": "MG04Restore",
       "name": "Anvil Recommendation",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "02D32B"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Anvil_Recommendation",
       "description": "Investigate a number of deaths along the Gold Road to obtain a recommendation from Anvil.",
       "completionStages": [
@@ -25,6 +33,10 @@
     {
       "id": "MG03Illusion",
       "name": "Bravil Recommendation",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "02D936"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Bravil_Recommendation",
       "description": "Recover a fellow mage's staff to obtain a recommendation from Bravil.",
       "completionStages": [
@@ -34,6 +46,10 @@
     {
       "id": "MG06Bruma",
       "name": "Bruma Recommendation",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "02CBC8"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Bruma_Recommendation",
       "description": "Find a missing mage to obtain a recommendation from Bruma.",
       "completionStages": [
@@ -43,6 +59,10 @@
     {
       "id": "MG02Alter",
       "name": "Cheydinhal Recommendation",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "02D410"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Cheydinhal_Recommendation",
       "description": "Recover a lost ring to obtain a recommendation from Cheydinhal.",
       "completionStages": [
@@ -52,6 +72,10 @@
     {
       "id": "MG05Fingers",
       "name": "Fingers of the Mountain",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "0224E1"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Fingers_of_the_Mountain",
       "description": "Sort out a problem with a former guild member to obtain a recommendation from Chorrol.",
       "completionStages": [
@@ -63,6 +87,10 @@
     {
       "id": "MG07Leyawiin",
       "name": "Leyawiin Recommendation",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "02D93C"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Leyawiin_Recommendation",
       "description": "Help a mage regain her sanity to obtain a recommendation from Leyawiin.",
       "completionStages": [
@@ -72,6 +100,10 @@
     {
       "id": "MG01Destruct",
       "name": "Skingrad Recommendation",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "02D28B"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Skingrad_Recommendation",
       "description": "Find a missing mage to obtain a recommendation from Skingrad.",
       "completionStages": [
@@ -81,6 +113,10 @@
     {
       "id": "MG08MagesStaff",
       "name": "A Mage's Staff",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "034E14"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:A_Mage's_Staff",
       "description": "Complete your induction into the Mages Guild by creating your own staff.",
       "completionStages": [
@@ -90,6 +126,10 @@
     {
       "id": "MG09Motives",
       "name": "Ulterior Motives",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "03564F"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Ulterior_Motives",
       "description": "Retrieve a book from the Count of Skingrad.",
       "completionStages": [
@@ -99,6 +139,10 @@
     {
       "id": "MG10Vahtacen",
       "name": "Vahtacen's Secret",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "035F28"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Vahtacen's_Secret",
       "description": "Find out how the Mages Guild's excavation of Vahtacen is faring.",
       "completionStages": [
@@ -108,6 +152,10 @@
     {
       "id": "MG11NecroMoon",
       "name": "Necromancer's Moon",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "036300"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Necromancer's_Moon",
       "description": "Find out about Black Soul Gems.",
       "completionStages": [
@@ -117,6 +165,10 @@
     {
       "id": "MG12Gate",
       "name": "Liberation or Apprehension?",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "00395F"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Liberation_or_Apprehension_",
       "description": "Locate a Necromancer informant and return him safely to the Arcane University.",
       "completionStages": [
@@ -126,6 +178,10 @@
     {
       "id": "MG13Information",
       "name": "Information at a Price",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "003960"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Information_at_a_Price",
       "description": "Travel to Skingrad to receive information from Count Hassildor... at a price.",
       "completionStages": [
@@ -135,6 +191,10 @@
     {
       "id": "MG14Plot",
       "name": "A Plot Revealed",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "003961"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:A_Plot_Revealed",
       "description": "Travel to Bruma and find out why the Mages Guild there has stopped correspondence.",
       "completionStages": [
@@ -144,6 +204,10 @@
     {
       "id": "MG15Helm",
       "name": "The Bloodworm Helm",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "00C039"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:The_Bloodworm_Helm",
       "description": "Find the Bloodworm Helm and return it to the Arcane University.",
       "completionStages": [
@@ -153,6 +217,10 @@
     {
       "id": "MG16Amulet",
       "name": "The Necromancer's Amulet",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "00C03A"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:The_Necromancer's_Amulet",
       "description": "Find the Necromancer's Amulet and return it to the Arcane University.",
       "completionStages": [
@@ -162,6 +230,10 @@
     {
       "id": "MG17Ambush",
       "name": "Ambush",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "00C03B"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Ambush",
       "description": "Oversee a contingent of Battlemages in their fight against the Necromancers and retrieve a unique Black Soul Gem from an old \"friend\".",
       "completionStages": [
@@ -171,6 +243,10 @@
     {
       "id": "MG18KingofWorms",
       "name": "Confront the King",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "00C03C"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Confront_the_King",
       "description": "Find the King of Worms and end the Necromancers' attacks on the Mages Guild.",
       "completionStages": [
@@ -180,6 +256,10 @@
     {
       "id": "MG19Alchemy",
       "name": "Alchemy Acquisitions",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "0A78CE"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Alchemy_Acquisitions",
       "description": "Use the expertise of Julienne Fanis for your own benefit.",
       "completionStages": [
@@ -189,6 +269,10 @@
     {
       "id": "DLCOrrery",
       "name": "Repairing the Orrery",
+      "record": {
+        "plugin": "DLCOrrery.esp",
+        "objectId": "11B9FB"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Repairing_the_Orrery",
       "description": "Harness the power of the stars. Rebuild the defiled Orrery and unlock the secrets of this Mages Guild Inner Sanctum.",
       "completionStages": [

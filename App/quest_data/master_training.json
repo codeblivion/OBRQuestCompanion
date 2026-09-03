@@ -7,6 +7,10 @@
     {
       "id": "TrainingAcrobatics",
       "name": "Acrobatics Training",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "18BA2B"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Acrobatics_Training",
       "description": "Tread the difficult path to find an expert acrobat to train you further.",
       "completionStages": [
@@ -16,6 +20,10 @@
     {
       "id": "TrainingAlchemy",
       "name": "Alchemy Training",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "18BA2A"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Alchemy_Training",
       "description": "Persuade a Master Alchemist to instruct you further.",
       "completionStages": [
@@ -26,6 +34,10 @@
     {
       "id": "TrainingAlteration",
       "name": "Alteration Training",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "18BA2C"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Alteration_Training",
       "description": "Prove to an Argonian master you are worthy of further training.",
       "completionStages": [
@@ -36,6 +48,10 @@
     {
       "id": "TrainingArmorer",
       "name": "Armorer Training",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "18BA2D"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Armorer_Training",
       "description": "Prove your smithing skills to the master.",
       "completionStages": [
@@ -46,6 +62,10 @@
     {
       "id": "TrainingAthletics",
       "name": "Athletics Training",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "18BA2E"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Athletics_Training",
       "description": "Prove to an expert athlete that you are well-traveled enough to receive master training.",
       "completionStages": [
@@ -56,6 +76,10 @@
     {
       "id": "TrainingBlade",
       "name": "Blade Training",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "18BA2F"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Blade_Training",
       "description": "Prove your reputation with a blade to the Master Swordsman.",
       "completionStages": [
@@ -66,6 +90,10 @@
     {
       "id": "TrainingBlock",
       "name": "Block Training",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "18BA30"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Block_Training",
       "description": "Demonstrate to the Master of Defense that you are proficient enough to receive her training.",
       "completionStages": [
@@ -76,6 +104,10 @@
     {
       "id": "TrainingBlunt",
       "name": "Blunt Training",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "18BA31"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Blunt_Training",
       "description": "A Master in blunt skills needs to know sufficient bloodthirst to receive her training.",
       "completionStages": [
@@ -86,6 +118,10 @@
     {
       "id": "TrainingConjuration",
       "name": "Conjuration Training",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "18BA32"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Conjuration_Training",
       "description": "A Master Conjurer wants proof of your ability before he will train you.",
       "completionStages": [
@@ -96,6 +132,10 @@
     {
       "id": "TrainingDestruction",
       "name": "Destruction Training",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "18B197"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Destruction_Training",
       "description": "A Master of Destruction wants you to join her in challenging the gods to prove you deserve her training.",
       "completionStages": [
@@ -106,6 +146,10 @@
     {
       "id": "TrainingHandtoHand",
       "name": "Hand to Hand Training",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "18BA33"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Hand_to_Hand_Training",
       "description": "A Master of unarmed combat wants you to try to hurt him to prove you deserve his training.",
       "completionStages": [
@@ -116,6 +160,10 @@
     {
       "id": "TrainingHeavyArmor",
       "name": "Heavy Armor Training",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "18B2F9"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Heavy_Armor_Training",
       "description": "A retired gladiator wants you to find a present for his beloved before he will train you.",
       "completionStages": [
@@ -126,6 +174,10 @@
     {
       "id": "TrainingIllusion",
       "name": "Illusion Training",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "18BA34"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Illusion_Training",
       "description": "Supply a master illusionist with Welkynd Stones to receive her training.",
       "completionStages": [
@@ -136,6 +188,10 @@
     {
       "id": "TrainingLightArmor",
       "name": "Light Armor Training",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "18BA35"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Light_Armor_Training",
       "description": "A master of light armor wants some new armor before he will train you.",
       "completionStages": [
@@ -146,6 +202,10 @@
     {
       "id": "TrainingMarksman",
       "name": "Marksman Training",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "03C168"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Marksman_Training",
       "description": "A master marksman wants your equipment to be up to scratch before she will train you.",
       "completionStages": [
@@ -156,6 +216,10 @@
     {
       "id": "TrainingMercantile",
       "name": "Mercantile Training",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "18BA36"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Mercantile_Training",
       "description": "Prove to a master merchant that you have enough capital to receive her expertise.",
       "completionStages": [
@@ -166,6 +230,10 @@
     {
       "id": "TrainingMysticism",
       "name": "Mysticism Training",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "18BA37"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Mysticism_Training",
       "description": "You must begin to repel the forces of Oblivion before the master mystic will train you.",
       "completionStages": [
@@ -176,6 +244,10 @@
     {
       "id": "trainingrestoration",
       "name": "Restoration Training",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "18BA38"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Restoration_Training",
       "description": "A master healer will only train you if you save her city.",
       "completionStages": [
@@ -186,6 +258,10 @@
     {
       "id": "TrainingSecurity",
       "name": "Security Training",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "18BA39"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Security_Training",
       "description": "Act as a courier for the master of security so he will train you.",
       "completionStages": [
@@ -196,6 +272,10 @@
     {
       "id": "TrainingSneak",
       "name": "Sneak Training",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "18BA3A"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Sneak_Training",
       "description": "Steal an item from the master of sneak to persuade her to train you.",
       "completionStages": [
@@ -206,6 +286,10 @@
     {
       "id": "TrainingSpeechcraft",
       "name": "Speechcraft Training",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "18BA3B"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Speechcraft_Training",
       "description": "Cyrodiil's master orator wants you to comfort the unfortunate to prove yourself worthy of her training.",
       "completionStages": [

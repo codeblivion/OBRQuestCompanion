@@ -16,17 +16,43 @@
         <div class="title-group">
           <img class="title-icon" src="images/icon.png" />
           <div class="title-block">
-            <h1>OBR Quest<br />Companion</h1><small><span id="app-version"></span></small>
+            <h1>OBR Quest<br />Companion</h1>
+            <small>
+              <span id="app-version"></span>
+              <span aria-hidden="true"> · </span>
+              <a class="title-external-link" href="https://www.nexusmods.com/oblivionremastered/mods/5235" data-external-link>Nexus Mods <b>➚</b></a>
+            </small>
           </div>
         </div>
-        <div class="path-controls">
-          <label for="progress-path">Quest progress path</label>
-          <div class="path-inputs">
-            <input id="progress-path" type="text"
-              placeholder="C:\Users\MartinSeptim\Documents\My Games\Oblivion Remastered\OBSE\OBRQuestCompanion\quest_progress.json" />
-            <button id="load-progress" type="button">Load</button>
+        <div class="tracked-character-controls">
+          <div id="tracked-character-panel" class="tracked-character-panel">
+            <div id="tracked-character-snapshot" class="tracked-character-snapshot" aria-hidden="true"></div>
+            <div class="tracked-character-meta">
+              <div class="tracked-character-identity">
+                <span id="tracked-character-name" class="tracked-character-name">No character selected</span>
+                <span id="tracked-character-level" class="tracked-character-level"></span>
+              </div>
+              <div id="tracked-character-play-time-row" class="tracked-character-metric" hidden>
+                <span class="tracked-character-label">Play time</span>
+                <strong id="tracked-character-play-time"></strong>
+              </div>
+              <div id="tracked-character-saved-row" class="tracked-character-metric" hidden>
+                <span class="tracked-character-label">Saved</span>
+                <strong id="tracked-character-saved"></strong>
+              </div>
+              <div id="tracked-character-save-type-row" class="tracked-character-metric" hidden>
+                <span class="tracked-character-label">Save type</span>
+                <strong id="tracked-character-save-type" class="tracked-character-save-type"></strong>
+              </div>
+            </div>
+            <div class="tracked-character-thumbnail">
+              <img id="tracked-character-thumbnail-image" alt="Save snapshot" hidden />
+            </div>
           </div>
-          <p id="path-status" class="path-status">Waiting for quest progress…</p>
+          <div class="tracked-character-status-row">
+            <p id="tracker-status" class="tracker-status"></p>
+            <button id="change-character" class="secondary-small-button" type="button">Change character</button>
+          </div>
         </div>
       </header>
       <div class="toggle-bar">
@@ -75,6 +101,48 @@
 
     </footer>
   </div>
+
+  <div id="character-modal" class="character-modal-backdrop" hidden>
+    <section class="character-modal" role="dialog" aria-modal="true" aria-labelledby="character-modal-title">
+      <header class="character-modal-titlebar">
+        <h2 id="character-modal-title">Change character</h2>
+        <button id="close-character-modal" class="character-modal-close" type="button" aria-label="Close">×</button>
+      </header>
+
+      <div class="save-folder-section">
+        <label>Save folder</label>
+        <div class="save-folder-row">
+          <div id="save-folder-path" class="save-folder-path" title="No folder selected">No folder selected</div>
+          <button id="browse-save-folder" class="secondary-button" type="button">Browse…</button>
+        </div>
+        <div id="save-folder-summary" class="save-folder-summary">Choose your save game folder.</div>
+      </div>
+
+      <div id="character-filter-row" class="character-filter-row" hidden>
+        <input id="character-filter" type="search" placeholder="Filter by name" autocomplete="off" />
+        <label for="character-sort">Sort</label>
+        <select id="character-sort">
+          <option value="last-saved">Last saved</option>
+          <option value="name">Name</option>
+          <option value="level">Level</option>
+          <option value="play-time">Play time</option>
+        </select>
+      </div>
+
+      <div id="character-grid" class="character-grid"></div>
+      <div id="character-directory-state" class="character-directory-state" hidden></div>
+
+      <footer class="character-modal-footer">
+        <p>Tracking follows the newest save for the selected character.</p>
+        <div class="character-modal-actions">
+          <button id="cancel-character-modal" class="secondary-button" type="button">Cancel</button>
+          <button id="track-character" class="primary-button" type="button" disabled>Track character</button>
+        </div>
+      </footer>
+    </section>
+  </div>
+
+  <script src="progress-matcher.js"></script>
   <script src="renderer.js"></script>
 </body>
 

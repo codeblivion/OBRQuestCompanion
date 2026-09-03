@@ -7,6 +7,10 @@
     {
       "id": "HouseBravil",
       "name": "Buying a house in Bravil",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "085480"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Buying_a_house_in_Bravil",
       "description": "Purchase a small house on the far side of the canal in Bravil.",
       "completionStages": [
@@ -16,6 +20,10 @@
     {
       "id": "HouseBruma",
       "name": "Buying a house in Bruma",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "085481"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Bruma_House_for_Sale",
       "description": "Purchase a house in eastern Bruma.",
       "completionStages": [
@@ -25,6 +33,10 @@
     {
       "id": "HouseCheydinhal",
       "name": "Buying a house in Cheydinhal",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "085483"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Buying_a_house_in_Cheydinhal",
       "description": "Purchase a typical house in Cheydinhal's western district.",
       "completionStages": [
@@ -34,6 +46,10 @@
     {
       "id": "HouseChorrol",
       "name": "Buying a house in Chorrol",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "085482"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Buying_a_house_in_Chorrol",
       "description": "Purchase a house in Chorrol's Great Oak Place.",
       "completionStages": [
@@ -43,6 +59,10 @@
     {
       "id": "HouseLeyawiin",
       "name": "Buying a house in Leyawiin",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "08547F"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Buying_a_house_in_Leyawiin",
       "description": "Purchase a modest house in Leyawiin's central district.",
       "completionStages": [
@@ -52,6 +72,10 @@
     {
       "id": "HouseSkingrad",
       "name": "Buying a house in Skingrad",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "085484"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Buying_a_house_in_Skingrad",
       "description": "Purchase Rosethorn Hall, a large manor house in Skingrad.",
       "completionStages": [
@@ -61,6 +85,10 @@
     {
       "id": "HouseServant",
       "name": "Helping Hands",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "0B97DD"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Helping_Hands",
       "description": "Hire a housekeeper for your manor in Skingrad.",
       "completionStages": [
@@ -70,6 +98,10 @@
     {
       "id": "HouseSkingradQuest",
       "name": "The Rosethorn Cache",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "0B6C0C"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:The_Rosethorn_Cache",
       "description": "Find the hidden treasure of a thief who lived 200 years ago.",
       "completionStages": [
@@ -79,6 +111,10 @@
     {
       "id": "HouseImperialCity",
       "name": "Buy a house in the Imperial City",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "085485"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Buy_a_house_in_the_Imperial_City",
       "description": "Get your foot on the property ladder with a rundown shack in a poor district of the Imperial City.",
       "completionStages": [
@@ -88,15 +124,23 @@
     {
       "id": "MS02",
       "name": "Where Spirits Have Lease",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "03636F"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Where_Spirits_Have_Lease",
       "description": "It's your chance to buy a large manor, cheap! There's only one little snag...",
       "completionStages": [
         120
       ]
     },
-        {
+    {
       "id": "DLCBattlehornCastle",
       "name": "Battlehorn Castle",
+      "record": {
+        "plugin": "DLCBattlehornCastle.esp",
+        "objectId": "00B089"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Battlehorn_Castle_(quest)",
       "description": "Rescue Battlehorn Castle from marauders, and claim it as your own.",
       "completionStages": [
@@ -106,6 +150,10 @@
     {
       "id": "DLCDeepscorn",
       "name": "Deepscorn Hollow",
+      "record": {
+        "plugin": "DLCVileLair.esp",
+        "objectId": "0041C4"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Deepscorn_Hollow_(quest)",
       "description": "Deepscorn Hollow is an asylum for the wicked, a refuge from the persecution of the virtuous.",
       "completionStages": [
@@ -115,6 +163,10 @@
     {
       "id": "DLC06ThievesDen",
       "name": "Dunbarrow Cove",
+      "record": {
+        "plugin": "DLCThievesDen.esp",
+        "objectId": "003E84"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Dunbarrow_Cove_(quest)",
       "description": "Uncover a famous pirate's lost ship and claim it as your own.",
       "completionStages": [
@@ -124,6 +176,10 @@
     {
       "id": "DLCFrostcragSpire",
       "name": "Frostcrag Spire",
+      "record": {
+        "plugin": "DLCFrostcrag.esp",
+        "objectId": "000D53"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Frostcrag_Spire_(quest)",
       "description": "In the frozen mountains of Cyrodiil stands Frostcrag Spire, a tower of wonders for your magic-oriented character to call home.",
       "completionStages": [

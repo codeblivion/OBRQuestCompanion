@@ -7,6 +7,10 @@
     {
       "id": "se01door",
       "name": "A Door in Niben Bay",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "0133BF"
+      },
       "link": "https://en.uesp.net/wiki/Shivering:A_Door_in_Niben_Bay",
       "description": "Cross the threshold of Madness.",
       "completionStages": [
@@ -16,6 +20,10 @@
     {
       "id": "SE02",
       "name": "Through the Fringe of Madness",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "011F9D"
+      },
       "link": "https://en.uesp.net/wiki/Shivering:Through_the_Fringe_of_Madness",
       "description": "Get past the Gates of Madness.",
       "completionStages": [
@@ -25,6 +33,10 @@
     {
       "id": "SE03",
       "name": "A Better Mousetrap",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "0135EB"
+      },
       "link": "https://en.uesp.net/wiki/Shivering:A_Better_Mousetrap",
       "description": "Activate the Resonator of Judgment.",
       "completionStages": [
@@ -34,6 +46,10 @@
     {
       "id": "SE03A",
       "name": "Baiting the Trap",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "017D0F"
+      },
       "link": "https://en.uesp.net/wiki/Shivering:Baiting_the_Trap",
       "description": "Decide the fate of some greedy new adventurers in the Isles.",
       "completionStages": [
@@ -43,6 +59,10 @@
     {
       "id": "SE04Shell",
       "name": "Understanding Madness",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "04A755"
+      },
       "link": "https://en.uesp.net/wiki/Shivering:Understanding_Madness",
       "description": "Meet the Duke of Mania and the Duchess of Dementia and join their courts.",
       "completionStages": [
@@ -52,6 +72,10 @@
     {
       "id": "SE04",
       "name": "Addiction",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "012105"
+      },
       "link": "https://en.uesp.net/wiki/Shivering:Addiction",
       "description": "Return the Chalice of Reversal to Thadon, the Duke of Mania.",
       "completionStages": [
@@ -62,6 +86,10 @@
     {
       "id": "SE05",
       "name": "The Lady of Paranoia",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "01351B"
+      },
       "link": "https://en.uesp.net/wiki/Shivering:The_Lady_of_Paranoia",
       "description": "Investigate who wants Lady Syl, the Duchess of Dementia, assassinated.",
       "completionStages": [
@@ -71,6 +99,10 @@
     {
       "id": "se06",
       "name": "The Cold Flame of Agnon",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "0120E9"
+      },
       "link": "https://en.uesp.net/wiki/Shivering:The_Cold_Flame_of_Agnon",
       "description": "Choose sides in the battle at Cylarne to relight the hope of New Sheoth.",
       "completionStages": [
@@ -80,6 +112,10 @@
     {
       "id": "SE07",
       "name": "Ritual of Accession",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "0120EA"
+      },
       "link": "https://en.uesp.net/wiki/Shivering:Ritual_of_Accession",
       "description": "Become a Duke/Duchess in the Court of Madness.",
       "completionStages": [
@@ -89,6 +125,10 @@
     {
       "id": "SE07B",
       "name": "Ritual of Mania",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "0135ED"
+      },
       "link": "https://en.uesp.net/wiki/Shivering:Ritual_of_Mania",
       "description": "Kill the Duke of Mania and take his place.",
       "completionStages": [
@@ -98,6 +138,10 @@
     {
       "id": "SE07A",
       "name": "Ritual of Dementia",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "0135EC"
+      },
       "link": "https://en.uesp.net/wiki/Shivering:Ritual_of_Dementia",
       "description": "Kill the Duchess of Dementia and take her place.",
       "completionStages": [
@@ -107,6 +151,10 @@
     {
       "id": "SE08",
       "name": "Retaking The Fringe",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "0135B4"
+      },
       "link": "https://en.uesp.net/wiki/Shivering:Retaking_The_Fringe",
       "description": "Defend the Fringe and stop the attackers.",
       "completionStages": [
@@ -116,6 +164,10 @@
     {
       "id": "SE09",
       "name": "Rebuilding the Gatekeeper",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "013564"
+      },
       "link": "https://en.uesp.net/wiki/Shivering:Rebuilding_the_Gatekeeper",
       "description": "Find all of the parts of the Gatekeeper and rebuild it.",
       "completionStages": [
@@ -125,6 +177,10 @@
     {
       "id": "SE10",
       "name": "The Helpless Army",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "01354B"
+      },
       "link": "https://en.uesp.net/wiki/Shivering:The_Helpless_Army",
       "description": "Save the Mazken/Aureal from the Knights of Order.",
       "completionStages": [
@@ -135,6 +191,10 @@
     {
       "id": "SE11",
       "name": "Symbols of Office",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "0135B2"
+      },
       "link": "https://en.uesp.net/wiki/Shivering:Symbols_of_Office",
       "description": "Procure the two items needed to craft the Staff of Sheogorath.",
       "completionStages": [
@@ -144,6 +204,10 @@
     {
       "id": "SE12",
       "name": "The Roots of Madness",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "01383C"
+      },
       "link": "https://en.uesp.net/wiki/Shivering:The_Roots_of_Madness",
       "description": "Cleanse the Pools of Madness.",
       "completionStages": [
@@ -153,6 +217,10 @@
     {
       "id": "SE13",
       "name": "The End of Order",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "015641"
+      },
       "link": "https://en.uesp.net/wiki/Shivering:The_End_of_Order",
       "description": "Fight the last battle against the forces of order and Jyggalag.",
       "completionStages": [
@@ -164,6 +232,10 @@
     {
       "id": "SE14",
       "name": "The Prince of Madness",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "03B819"
+      },
       "link": "https://en.uesp.net/wiki/Shivering:The_Prince_of_Madness",
       "description": "End the Greymarch; get your rewards.",
       "completionStages": [

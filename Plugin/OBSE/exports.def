@@ -1,3 +1,0 @@
-LIBRARY "quest_companion"
-EXPORTS
-OBSEPlugin_Load

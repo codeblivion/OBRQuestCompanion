@@ -7,6 +7,10 @@
     {
       "id": "DAAzura",
       "name": "Azura",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "0146A2"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Azura",
       "description": "Kill some former worshippers of Azura who have been turned into vampires.",
       "completionStages": [
@@ -16,6 +20,10 @@
     {
       "id": "DABoethia",
       "name": "Boethia",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "0146A3"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Boethia",
       "description": "Prove your worthiness to Boethia in the Tournament of Ten Bloods.",
       "completionStages": [
@@ -25,6 +33,10 @@
     {
       "id": "DAClavicusVile",
       "name": "Clavicus Vile",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "0146A4"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Clavicus_Vile",
       "description": "Retrieve the infamous sword Umbra from a regretful killer.",
       "completionStages": [
@@ -35,6 +47,10 @@
     {
       "id": "DAHermaeusMora",
       "name": "Hermaeus Mora",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "0146AF"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Hermaeus_Mora",
       "description": "Capture one soul from each of the ten races of Tamriel.",
       "completionStages": [
@@ -44,6 +60,10 @@
     {
       "id": "DAHircine",
       "name": "Hircine",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "0146A5"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Hircine",
       "description": "You must make an offering of a bear or wolf pelt... and the horn of a Unicorn.",
       "completionStages": [
@@ -53,6 +73,10 @@
     {
       "id": "DAMalacath",
       "name": "Malacath",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "0146A6"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Malacath",
       "description": "Rescue some Ogres from slavery.",
       "completionStages": [
@@ -63,6 +87,10 @@
     {
       "id": "DAMephala",
       "name": "Mephala",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "0146A7"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Mephala",
       "description": "Start a feud between two prominent families.",
       "completionStages": [
@@ -75,6 +103,10 @@
     {
       "id": "DAMeridia",
       "name": "Meridia",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "0146A8"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Meridia",
       "description": "Wipe out a band of necromancers.",
       "completionStages": [
@@ -84,6 +116,10 @@
     {
       "id": "DAMolagBal",
       "name": "Molag Bal",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "0146B0"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Molag_Bal",
       "description": "Goad the local do-gooder into killing you.",
       "completionStages": [
@@ -95,6 +131,10 @@
     {
       "id": "DANamira",
       "name": "Namira",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "0146A9"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Namira",
       "description": "Assist Namira's Forgotten in eliminating some priests.",
       "completionStages": [
@@ -106,6 +146,10 @@
     {
       "id": "DANocturnal",
       "name": "Nocturnal",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "0146AA"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Nocturnal",
       "description": "Recover the Eye of Nocturnal from a pair of thieves in Leyawiin.",
       "completionStages": [
@@ -115,6 +159,10 @@
     {
       "id": "DAPeryite",
       "name": "Peryite",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "0146AB"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Peryite",
       "description": "Peryite wants you to enter the Realm of Peryite and rescue the souls of his worshippers from their folly.",
       "completionStages": [
@@ -124,6 +172,10 @@
     {
       "id": "DASanguine",
       "name": "Sanguine",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "0146AC"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Sanguine",
       "description": "Crash a dinner party at Castle Leyawiin by playing a prank for Sanguine.",
       "completionStages": [
@@ -134,6 +186,10 @@
     {
       "id": "DASheogorath",
       "name": "Sheogorath",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "0146AD"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Sheogorath",
       "description": "Fulfill an apocalyptic prophecy to satisfy Sheogorath's morbid sense of humor.",
       "completionStages": [
@@ -143,6 +199,10 @@
     {
       "id": "DAVaermina",
       "name": "Vaermina",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "0146AE"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Vaermina",
       "description": "Retrieve the Orb of Vaermina from the wizard, Arkved.",
       "completionStages": [

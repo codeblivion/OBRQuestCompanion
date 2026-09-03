@@ -5,23 +5,25 @@
   },
   "version": "1.0.5",
   "description": "Quest companion for The Elder Scrolls IV: Oblivion Remastered",
+  "desktopName": "OBR Quest Companion",
   "main": "main.js",
   "build": {
     "appId": "com.codeblivion.questcompanion",
     "productName": "OBR Quest Companion",
-    "publish": [
-      {
-        "provider": "github",
-        "owner": "codeblivion",
-        "repo": "OBRQuestCompanion"
-      }
+    "files": [
+      "**/*"
     ],
     "win": {
       "target": "nsis",
       "icon": "images/icon.png",
       "artifactName": "OBR-Quest-Companion-Setup-${version}.${ext}"
     },
+    "nsis": {
+      "differentialPackage": false
+    },
     "linux": {
+      "category": "Utility",
+      "syncDesktopName": true,
       "target": [
         "AppImage"
       ],
@@ -30,16 +32,15 @@
     }
   },
   "scripts": {
+    "build:wasm": "wasm-pack build ../rust/obr-save-wasm --release --target nodejs --out-dir ../../app/generated/obr-save-wasm --out-name obr_save_wasm --no-opt 2>&1",
     "start": "electron .",
-    "dist": "electron-builder",
-    "dist:publish": "electron-builder --publish always",
-    "release": "electron-builder --publish always"
+    "dist": "npm run build:wasm && electron-builder --publish never",
+    "release": "npm run dist"
   },
-  "dependencies": {
-    "electron-updater": "^6.7.3"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "electron": "^39.2.7",
-    "electron-builder": "^26.4.0"
+    "electron": "^44.1.1",
+    "electron-builder": "^26.15.3",
+    "wasm-pack": "^0.15.0"
   }
 }

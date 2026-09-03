@@ -29,12 +29,12 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 24
           cache: npm
-          cache-dependency-path: App/package-lock.json
+          cache-dependency-path: app/package-lock.json
 
       - name: Install
-        working-directory: App
+        working-directory: app
         run: npm ci
 
       - name: Configure git identity
@@ -49,18 +49,17 @@ jobs:
           set -euo pipefail
           BUMP="${{ github.event.inputs.bump }}"
 
-          npm --prefix App version "$BUMP" --no-git-tag-version
+          npm --prefix app version "$BUMP" --no-git-tag-version
 
-          NEW_VER="$(node -p "require('./App/package.json').version")"
+          NEW_VER="$(node -p "require('./app/package.json').version")"
           TAG="v$NEW_VER"
 
-          git add App/package.json App/package-lock.json || true
+          git add app/package.json app/package-lock.json || true
           git commit -m "chore(release): $TAG"
           git tag "$TAG"
 
           echo "tag=$TAG" >> "$GITHUB_OUTPUT"
 
-          # sanity
           git show-ref --tags --verify "refs/tags/$TAG"
 
       - name: Push commit
@@ -88,7 +87,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: App
+        working-directory: app
 
     steps:
       - name: Checkout tag
@@ -101,17 +100,25 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 24
           cache: npm
-          cache-dependency-path: App/package-lock.json
+          cache-dependency-path: app/package-lock.json
+
+      - name: Setup Rust for WebAssembly
+        uses: dtolnay/rust-toolchain@stable
+        with:
+          targets: wasm32-unknown-unknown
 
       - name: Install
         run: npm ci
 
+      - name: Build save reader
+        run: npm run build:wasm
+
       - name: Build (no publish)
         run: npx electron-builder --publish never
 
-      - name: Upload core updater assets
+      - name: Upload release installers
         env:
           GITHUB_TOKEN: ${{ secrets.RELEASE_PAT }}
         shell: bash
@@ -122,7 +129,7 @@ jobs:
 
           shopt -s nullglob
 
-          CORE=( dist/*.exe dist/*.AppImage dist/latest*.yml dist/*.blockmap )
+          CORE=( dist/*.exe dist/*.AppImage )
 
           FILES=()
           for f in "${CORE[@]}"; do
@@ -130,12 +137,12 @@ jobs:
           done
 
           if [[ ${#FILES[@]} -eq 0 ]]; then
-            echo "No updater assets found in dist/"
+            echo "No release installers found in dist/"
             ls -la dist || true
             exit 1
           fi
 
-          echo "Uploading updater assets:"
+          echo "Uploading release installers:"
           printf ' - %s\n' "${FILES[@]}"
 
           gh release upload "$TAG" "${FILES[@]}" --repo "$REPO" --clobber

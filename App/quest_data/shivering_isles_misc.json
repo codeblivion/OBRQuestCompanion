@@ -7,6 +7,10 @@
     {
       "id": "SE30",
       "name": "The Antipodean Hammer",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "015639"
+      },
       "link": "https://en.uesp.net/wiki/Shivering:The_Antipodean_Hammer",
       "description": "Find Amber and Madness Ore for two rival Blacksmiths.",
       "completionStages": []
@@ -14,6 +18,10 @@
     {
       "id": "SE32",
       "name": "Ghosts of Vitharn",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "0120DA"
+      },
       "link": "https://en.uesp.net/wiki/Shivering:Ghosts_of_Vitharn",
       "description": "Set things right for the ghosts of a fallen castle.",
       "completionStages": [
@@ -23,6 +31,10 @@
     {
       "id": "SE34",
       "name": "To Help A Hero",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "066EBE"
+      },
       "link": "https://en.uesp.net/wiki/Shivering:To_Help_A_Hero",
       "description": "Retrieve the stolen medallion of a Knight of the Thorn.",
       "completionStages": [
@@ -32,6 +44,10 @@
     {
       "id": "SE35",
       "name": "Brithaur",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "044C44"
+      },
       "link": "https://en.uesp.net/wiki/Shivering:Brithaur_(quest)",
       "description": "Stop him from making everyone go crazy! Oh wait...",
       "completionStages": [
@@ -41,6 +57,10 @@
     {
       "id": "SE36",
       "name": "Final Resting",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "061C51"
+      },
       "link": "https://en.uesp.net/wiki/Shivering:Final_Resting",
       "description": "Help Hirrus Clutumnus end his life.",
       "completionStages": [
@@ -51,6 +71,10 @@
     {
       "id": "SE37",
       "name": "Taxonomy of Obsession",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "0452EA"
+      },
       "link": "https://en.uesp.net/wiki/Shivering:Taxonomy_of_Obsession",
       "description": "Help a Dunmer finish her research.",
       "completionStages": [
@@ -61,6 +85,10 @@
     {
       "id": "SE38",
       "name": "The Museum of Oddities",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "04340C"
+      },
       "link": "https://en.uesp.net/wiki/Shivering:The_Museum_of_Oddities",
       "description": "Una Armina wants you to find \"Oddities\" for her museum.",
       "completionStages": [
@@ -71,6 +99,10 @@
     {
       "id": "SE39",
       "name": "Everything In Its Place",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "042B9C"
+      },
       "link": "https://en.uesp.net/wiki/Shivering:Everything_In_Its_Place",
       "description": "\"Liberate\" a farm's Khajiit workers from the \"cruel mind control\" of their overseer.",
       "completionStages": [
@@ -82,6 +114,10 @@
     {
       "id": "SE40",
       "name": "Falling Awake",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "0790CF"
+      },
       "link": "https://en.uesp.net/wiki/Shivering:Falling_Awake",
       "description": "Find a place to sleep for a scared Breton.",
       "completionStages": [
@@ -91,6 +127,10 @@
     {
       "id": "SE41",
       "name": "A Liquid Solution",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "06D602"
+      },
       "link": "https://en.uesp.net/wiki/Shivering:A_Liquid_Solution",
       "description": "Find the Ultimate Cure.",
       "completionStages": [
@@ -100,6 +140,10 @@
     {
       "id": "SE42",
       "name": "Work is Never Done",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "073236"
+      },
       "link": "https://en.uesp.net/wiki/Shivering:Work_is_Never_Done",
       "description": "Help Tove the Unrestful build a sky boat from calipers and tongs.",
       "completionStages": [
@@ -110,6 +154,10 @@
     {
       "id": "SE46",
       "name": "The Great Divide",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "081DD5"
+      },
       "link": "https://en.uesp.net/wiki/Shivering:The_Great_Divide",
       "description": "Resolve the \"trouble of doubles\".",
       "completionStages": [
@@ -120,6 +168,10 @@
     {
       "id": "SE43",
       "name": "Ushnar's Terror",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "071FE1"
+      },
       "link": "https://en.uesp.net/wiki/Shivering:Ushnar's_Terror",
       "description": "Ushnar is terrified of cats, but unfortunately a Khajiit beggar has become his shadow.",
       "completionStages": [
@@ -129,6 +181,10 @@
     {
       "id": "SE44",
       "name": "The Coming Storm",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "078512"
+      },
       "link": "https://en.uesp.net/wiki/Shivering:The_Coming_Storm",
       "description": "Help Ahjazda prepare for the storm.",
       "completionStages": [
@@ -139,6 +195,10 @@
     {
       "id": "SE45",
       "name": "The Fork of Horripilation",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "078513"
+      },
       "link": "https://en.uesp.net/wiki/Shivering:The_Fork_of_Horripilation",
       "description": "Find the Fork of Horripilation for Big Head!",
       "completionStages": [

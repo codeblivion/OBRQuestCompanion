@@ -7,6 +7,10 @@
     {
       "id": "MS93",
       "name": "The Ghost Ship of Anvil",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "095A68"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:The_Ghost_Ship_of_Anvil",
       "description": "Varulae needs you to recover her crystal ball from the haunted ship.",
       "completionStages": [
@@ -17,6 +21,10 @@
     {
       "id": "MS04",
       "name": "The Siren's Deception",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "03AF05"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:The_Siren's_Deception",
       "description": "An all-female gang of thieves is preying on married men in the town.",
       "completionStages": [
@@ -29,6 +37,10 @@
     {
       "id": "MS08",
       "name": "Caught in the Hunt",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "01F426"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Caught_in_the_Hunt",
       "description": "Ursanne Loche's husband is missing!",
       "completionStages": [
@@ -40,6 +52,10 @@
     {
       "id": "MS06",
       "name": "The Forlorn Watchman",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "033E93"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:The_Forlorn_Watchman_(quest)",
       "description": "Lay to rest the spirit of a former sailor.",
       "completionStages": [
@@ -50,6 +66,10 @@
     {
       "id": "MS05",
       "name": "Through A Nightmare, Darkly",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "02CA50"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Through_A_Nightmare,_Darkly",
       "description": "Help Kud-Ei from the Bravil Mages Guild save her missing friend.",
       "completionStages": [
@@ -62,6 +82,10 @@
     {
       "id": "ms11",
       "name": "A Brotherhood Betrayed",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "017839"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:A_Brotherhood_Betrayed",
       "description": "It appears that a vampire in town was recently killed by Raynil Dralas, a self-proclaimed vampire hunter.",
       "completionStages": [
@@ -74,6 +98,10 @@
     {
       "id": "MS12",
       "name": "Lifting the Vale",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "017835"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Lifting_the_Vale",
       "description": "Countess Narina Carvain wants you to find the Draconian Madstone.",
       "completionStages": [
@@ -84,6 +112,10 @@
     {
       "id": "MS09",
       "name": "Two Sides of the Coin",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "017837"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Two_Sides_of_the_Coin",
       "description": "Arnora wants you to speak with Jorundr to find out where their stolen gold is hidden.",
       "completionStages": [
@@ -97,6 +129,10 @@
     {
       "id": "MS14",
       "name": "A Brush with Death",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "017606"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:A_Brush_with_Death",
       "description": "Help a distraught wife find a famous painter who has gone missing.",
       "completionStages": [
@@ -108,6 +144,10 @@
     {
       "id": "MS10",
       "name": "Corruption and Conscience",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "017838"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Corruption_and_Conscience",
       "description": "The Captain of the Guard in Cheydinhal is corrupt and the citizens want him removed.",
       "completionStages": [
@@ -120,6 +160,10 @@
     {
       "id": "MS16",
       "name": "Separated at Birth",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "023E85"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Separated_at_Birth",
       "description": "Investigate rumors around Chorrol that indicate some strange behavior on the part of one Reynald Jemane.",
       "completionStages": [
@@ -130,6 +174,10 @@
     {
       "id": "MS16A",
       "name": "Legacy Lost",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "02B8DB"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Legacy_Lost",
       "description": "Help long-lost twins recover their childhood home.",
       "completionStages": [
@@ -140,6 +188,10 @@
     {
       "id": "MS16B",
       "name": "Sins of the Father",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "02BA46"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Sins_of_the_Father",
       "description": "A thief wants you to recover an item stolen by the Jemane brothers' father.",
       "completionStages": [
@@ -150,6 +202,10 @@
     {
       "id": "MS18",
       "name": "The Killing Field",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "0224C7"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:The_Killing_Field",
       "description": "Valus Odiil in The Grey Mare in Chorrol needs you to help his sons reclaim his besieged farm.",
       "completionStages": [
@@ -162,6 +218,10 @@
     {
       "id": "MS45",
       "name": "A Shadow Over Hackdirt",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "027815"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:A_Shadow_Over_Hackdirt",
       "description": "Seed-Neeus' daughter Dar-Ma has gone missing.",
       "completionStages": [
@@ -172,6 +232,10 @@
     {
       "id": "MS51",
       "name": "Canvas the Castle",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "03151E"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Canvas_the_Castle",
       "description": "Someone has stolen a valuable painting from Castle Chorrol!",
       "completionStages": [
@@ -184,6 +248,10 @@
     {
       "id": "MS92",
       "name": "Knights of the White Stallion",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "08596D"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Knights_of_the_White_Stallion_(quest)",
       "description": "Join this Knightly order by killing a notorious bandit.",
       "completionStages": [
@@ -196,6 +264,10 @@
     {
       "id": "MS91",
       "name": "Mazoga the Orc",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "08596C"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Mazoga_the_Orc_(quest)",
       "description": "Count Marius Caro is concerned about Mazoga, an Orc at Castle Leyawiin who claims to be a knight.",
       "completionStages": [
@@ -208,6 +280,10 @@
     {
       "id": "SQ02",
       "name": "Raid on Greyland",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "181C6B"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Raid_on_Greyland",
       "description": "Help the Leyawiin Guard get rid of a drug trafficker.",
       "completionStages": [
@@ -219,6 +295,10 @@
     {
       "id": "MS37",
       "name": "Tears of the Savior",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "022E5A"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Tears_of_the_Savior",
       "description": "S'drassa of the Leyawiin Mages Guild is looking for Garridan's Tears.",
       "completionStages": [
@@ -230,6 +310,10 @@
     {
       "id": "MS43",
       "name": "Whom Gods Annoy",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "035A95"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Whom_Gods_Annoy",
       "description": "Rosentia Gallenus has been plagued by a foul smelling odor and some unusual house guests.",
       "completionStages": [
@@ -240,6 +324,10 @@
     {
       "id": "MS38",
       "name": "Paranoia",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "028D83"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Paranoia",
       "description": "Help a paranoid Wood Elf with his conspiracy woes.",
       "completionStages": [
@@ -256,6 +344,10 @@
     {
       "id": "MS39",
       "name": "Seeking Your Roots",
+      "record": {
+        "plugin": "Oblivion.esm",
+        "objectId": "04E936"
+      },
       "link": "https://en.uesp.net/wiki/Oblivion:Seeking_Your_Roots",
       "description": "After discovering a peculiar plant called Nirnroot, you decide to investigate it further.",
       "completionStages": [
